@@ -1,0 +1,122 @@
+# Toddle
+
+> Toddle (toddlekids.com) is a free UK nursery finder. Parents search by town, county or postcode to find and compare 1,020 day nurseries, pre-schools and nursery schools across 45 counties in England, then contact a nursery directly. It costs parents nothing.
+
+Each nursery page shows, where the nursery has provided it:
+- The latest Ofsted rating, with the sub-grades and a link to the full Ofsted report
+- Fees, including a daily rate and what is included (meals, nappies, extras)
+- Availability: open spaces, limited spaces or a waiting list
+- Age range, opening hours, and which government-funded hours are accepted (15 and 30 hours)
+- Address, phone number and a way to send an enquiry
+
+Location pages summarise childcare in a county or town: how many nurseries there are, the local range of daily fees, the share rated Outstanding by Ofsted, and the local council's funded-childcare information.
+
+Nurseries list on Toddle for free, and every parent enquiry is passed to the nursery at no charge.
+
+## Start here
+
+- [Find a nursery](https://toddlekids.com/nursery-listing): search every nursery on Toddle by location, age, fees, availability and Ofsted rating
+- [Nursery cost calculator](https://toddlekids.com/cost-calculator): estimate weekly, monthly and yearly costs by county, after funded hours and Tax-Free Childcare
+- [Nursery groups](https://toddlekids.com/nursery-groups): the UK's larger nursery chains and the nurseries in each
+- [Parent guides](https://toddlekids.com/blog): choosing a nursery, settling in, funding and costs
+- [List a nursery](https://toddlekids.com/partner-with-toddle): how nurseries join Toddle, free of charge
+
+## Nurseries by county
+
+- [Nurseries in Greater London](https://toddlekids.com/location/greater-london): 299 nurseries
+- [Nurseries in Cornwall](https://toddlekids.com/location/cornwall): 50 nurseries
+- [Nurseries in Buckinghamshire](https://toddlekids.com/location/buckinghamshire): 48 nurseries
+- [Nurseries in Berkshire](https://toddlekids.com/location/berkshire): 47 nurseries
+- [Nurseries in Cheshire](https://toddlekids.com/location/cheshire): 43 nurseries
+- [Nurseries in Cambridgeshire](https://toddlekids.com/location/cambridgeshire): 38 nurseries
+- [Nurseries in Bedfordshire](https://toddlekids.com/location/bedfordshire): 35 nurseries
+- [Nurseries in Somerset](https://toddlekids.com/location/somerset): 35 nurseries
+- [Nurseries in Derbyshire](https://toddlekids.com/location/derbyshire): 31 nurseries
+- [Nurseries in Bristol](https://toddlekids.com/location/bristol): 29 nurseries
+- [Nurseries in Leicestershire](https://toddlekids.com/location/leicestershire): 29 nurseries
+- [Nurseries in Lincolnshire](https://toddlekids.com/location/lincolnshire): 27 nurseries
+- [Nurseries in Gloucestershire](https://toddlekids.com/location/gloucestershire): 22 nurseries
+- [Nurseries in Northamptonshire](https://toddlekids.com/location/northamptonshire): 21 nurseries
+- [Nurseries in Cumbria](https://toddlekids.com/location/cumbria): 15 nurseries
+- [Nurseries in Nottinghamshire](https://toddlekids.com/location/nottinghamshire): 15 nurseries
+- [Nurseries in Tyne and Wear](https://toddlekids.com/location/tyne-and-wear): 13 nurseries
+- [Nurseries in Essex](https://toddlekids.com/location/essex): 12 nurseries
+- [Nurseries in Surrey](https://toddlekids.com/location/surrey): 12 nurseries
+- [Nurseries in Kent](https://toddlekids.com/location/kent): 11 nurseries
+- [Nurseries in Shropshire](https://toddlekids.com/location/shropshire): 11 nurseries
+- [Nurseries in Durham](https://toddlekids.com/location/durham): 10 nurseries
+- [Nurseries in Hertfordshire](https://toddlekids.com/location/hertfordshire): 10 nurseries
+- [Nurseries in Warwickshire](https://toddlekids.com/location/warwickshire): 10 nurseries
+- [Nurseries in West Yorkshire](https://toddlekids.com/location/west-yorkshire): 10 nurseries
+- [Nurseries in Hampshire](https://toddlekids.com/location/hampshire): 9 nurseries
+- [Nurseries in Herefordshire](https://toddlekids.com/location/herefordshire): 9 nurseries
+- [Nurseries in Oxfordshire](https://toddlekids.com/location/oxfordshire): 9 nurseries
+- [Nurseries in South Yorkshire](https://toddlekids.com/location/south-yorkshire): 9 nurseries
+- [Nurseries in West Midlands](https://toddlekids.com/location/west-midlands): 9 nurseries
+- [Nurseries in Dorset](https://toddlekids.com/location/dorset): 8 nurseries
+- [Nurseries in East Riding of Yorkshire](https://toddlekids.com/location/east-riding-of-yorkshire): 8 nurseries
+- [Nurseries in East Sussex](https://toddlekids.com/location/east-sussex): 8 nurseries
+- [Nurseries in Greater Manchester](https://toddlekids.com/location/greater-manchester): 8 nurseries
+- [Nurseries in Suffolk](https://toddlekids.com/location/suffolk): 8 nurseries
+- [Nurseries in West Sussex](https://toddlekids.com/location/west-sussex): 8 nurseries
+- [Nurseries in Worcestershire](https://toddlekids.com/location/worcestershire): 8 nurseries
+- [Nurseries in Devon](https://toddlekids.com/location/devon): 7 nurseries
+- [Nurseries in North Yorkshire](https://toddlekids.com/location/north-yorkshire): 7 nurseries
+- [Nurseries in Merseyside](https://toddlekids.com/location/merseyside): 6 nurseries
+- [Nurseries in Norfolk](https://toddlekids.com/location/norfolk): 6 nurseries
+- [Nurseries in Isle of Wight](https://toddlekids.com/location/isle-of-wight): 5 nurseries
+- [Nurseries in Lancashire](https://toddlekids.com/location/lancashire): 5 nurseries
+- [Nurseries in Northumberland](https://toddlekids.com/location/northumberland): 5 nurseries
+- [Nurseries in Staffordshire](https://toddlekids.com/location/staffordshire): 3 nurseries
+
+## Most-listed towns
+
+- [Nurseries in London, Greater London](https://toddlekids.com/location/greater-london/london): 196 nurseries
+- [Nurseries in Slough, Berkshire](https://toddlekids.com/location/berkshire/slough): 13 nurseries
+- [Nurseries in Thatcham, Berkshire](https://toddlekids.com/location/berkshire/thatcham): 12 nurseries
+- [Nurseries in Helston, Cornwall](https://toddlekids.com/location/cornwall/helston): 11 nurseries
+- [Nurseries in Huntingdon, Cambridgeshire](https://toddlekids.com/location/cambridgeshire/huntingdon): 10 nurseries
+- [Nurseries in Dunstable, Bedfordshire](https://toddlekids.com/location/bedfordshire/dunstable): 9 nurseries
+- [Nurseries in High Wycombe, Buckinghamshire](https://toddlekids.com/location/buckinghamshire/high-wycombe): 9 nurseries
+- [Nurseries in Northwich, Cheshire](https://toddlekids.com/location/cheshire/northwich): 9 nurseries
+- [Nurseries in Alfreton, Derbyshire](https://toddlekids.com/location/derbyshire/alfreton): 7 nurseries
+- [Nurseries in Kingswood, Gloucestershire](https://toddlekids.com/location/gloucestershire/kingswood): 7 nurseries
+- [Nurseries in Nantwich, Cheshire](https://toddlekids.com/location/cheshire/nantwich): 7 nurseries
+- [Nurseries in Northampton, Northamptonshire](https://toddlekids.com/location/northamptonshire/northampton): 7 nurseries
+- [Nurseries in Scunthorpe, Lincolnshire](https://toddlekids.com/location/lincolnshire/scunthorpe): 7 nurseries
+- [Nurseries in Swadlincote, Derbyshire](https://toddlekids.com/location/derbyshire/swadlincote): 7 nurseries
+- [Nurseries in Belper, Derbyshire](https://toddlekids.com/location/derbyshire/belper): 6 nurseries
+- [Nurseries in Birmingham, West Midlands](https://toddlekids.com/location/west-midlands/birmingham): 6 nurseries
+- [Nurseries in Ely, Cambridgeshire](https://toddlekids.com/location/cambridgeshire/ely): 6 nurseries
+- [Nurseries in Grimsby, Lincolnshire](https://toddlekids.com/location/lincolnshire/grimsby): 6 nurseries
+- [Nurseries in Harrow, Greater London](https://toddlekids.com/location/greater-london/harrow): 6 nurseries
+- [Nurseries in Hereford, Herefordshire](https://toddlekids.com/location/herefordshire/hereford): 6 nurseries
+- [Nurseries in Lincoln, Lincolnshire](https://toddlekids.com/location/lincolnshire/lincoln): 6 nurseries
+- [Nurseries in Market Harborough, Leicestershire](https://toddlekids.com/location/leicestershire/market-harborough): 6 nurseries
+- [Nurseries in Radstock, Somerset](https://toddlekids.com/location/somerset/radstock): 6 nurseries
+- [Nurseries in Sandy, Cambridgeshire](https://toddlekids.com/location/cambridgeshire/sandy): 6 nurseries
+- [Nurseries in Sheffield, South Yorkshire](https://toddlekids.com/location/south-yorkshire/sheffield): 6 nurseries
+- [Nurseries in St Austell, Cornwall](https://toddlekids.com/location/cornwall/st-austell): 6 nurseries
+- [Nurseries in Twickenham, Greater London](https://toddlekids.com/location/greater-london/twickenham): 6 nurseries
+- [Nurseries in Wokingham, Berkshire](https://toddlekids.com/location/berkshire/wokingham): 6 nurseries
+- [Nurseries in Bletchley, Buckinghamshire](https://toddlekids.com/location/buckinghamshire/bletchley): 5 nurseries
+- [Nurseries in Bodmin, Cornwall](https://toddlekids.com/location/cornwall/bodmin): 5 nurseries
+
+## Guides for parents
+
+- [New & Expecting Parents: The Complete Guide to Nurseries](https://toddlekids.com/blog/new-and-expecting-parents-guide-to-nurseries): When to register, how to choose, what to ask, and a checklist for nursery visits — everything first-time parents need.
+- [What Sets Top Nurseries Apart: A Parent's Guide](https://toddlekids.com/blog/what-sets-top-nurseries-apart-a-parents-guide): Choosing the perfect nursery for your little one is a big deal. Here's how to spot the real gems.
+- [Bilingual Nurseries: Raising Little Linguists!](https://toddlekids.com/blog/bilingual-nurseries-raising-little-linguists): Want your little one to be a chatterbox in two languages? Bilingual nurseries could be the answer.
+- [Froebelian Nurseries: Nurturing Little Explorers](https://toddlekids.com/blog/froebelian-nurseries-nurturing-little-explorers): A childcare setting that goes beyond traditional daycare — discover the Froebelian approach.
+- [Steiner Nurseries: Nurturing Little Imaginations](https://toddlekids.com/blog/steiner-nurseries-nurturing-little-imaginations): A unique and holistic approach to early years that puts imagination at the heart of learning.
+- [Unleashing Little Explorers: The Magic of the Curiosity Approach](https://toddlekids.com/blog/unleashing-little-explorers-the-magic-of-the-curiosity-approach): A learning environment where children lead the way and discovery comes first.
+- [Outdoor Nurseries: Nurturing Little Nature Lovers](https://toddlekids.com/blog/outdoor-nurseries-nurturing-little-nature-lovers): Magical learning spaces where children play, explore and grow in the great outdoors.
+- [Reggio Emilia Nurseries: Where Little Learners Shine](https://toddlekids.com/blog/reggio-emilia-nurseries-where-little-learners-shine): A child-led philosophy from Italy that celebrates creativity and curiosity.
+- [Mainstream Nurseries: Your Child's First Big Adventure](https://toddlekids.com/blog/mainstream-nurseries-your-childs-first-big-adventure): Thinking about nursery? It's a big step — and a super exciting one. Here's what to expect.
+- [How Much Does Nursery Actually Cost? A Parent's Guide](https://toddlekids.com/blog/how-much-does-nursery-actually-cost-a-parents-guide): Childcare costs can be eye-watering. Here's a transparent breakdown of what to budget.
+
+## Optional
+
+- [Full sitemap](https://toddlekids.com/sitemap.xml): every nursery, county and town page
+- [Contact Toddle](https://toddlekids.com/contact-us)
+- [Privacy policy](https://toddlekids.com/privacy)

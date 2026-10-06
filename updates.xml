@@ -5,8 +5,9 @@
 <link rel="self" type="application/atom+xml" href="https://toddlekids.com/feeds/updates.xml"/>
 <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <link rel="alternate" type="text/html" href="https://toddlekids.com/"/>
-<updated>2026-09-28T22:03:34+00:00</updated>
+<updated>2026-10-05T17:17:22+00:00</updated>
 <author><name>Toddle</name></author>
+<entry><title>Bright Kids Studley</title><link href="https://toddlekids.com/nursery/bright-kids-studley"/><id>https://toddlekids.com/nursery/bright-kids-studley</id><updated>2026-10-05T17:17:22+00:00</updated><category term="Nursery"/></entry>
 <entry><title>Nurseries in Wisbech, Cambridgeshire</title><link href="https://toddlekids.com/location/cambridgeshire/wisbech"/><id>https://toddlekids.com/location/cambridgeshire/wisbech</id><updated>2026-09-28T22:03:34+00:00</updated><category term="Area guide"/></entry>
 <entry><title>Nurseries in St Neots, Cambridgeshire</title><link href="https://toddlekids.com/location/cambridgeshire/st-neots"/><id>https://toddlekids.com/location/cambridgeshire/st-neots</id><updated>2026-09-28T22:02:21+00:00</updated><category term="Area guide"/></entry>
 <entry><title>Nurseries in Sandy, Cambridgeshire</title><link href="https://toddlekids.com/location/cambridgeshire/sandy"/><id>https://toddlekids.com/location/cambridgeshire/sandy</id><updated>2026-09-28T22:01:08+00:00</updated><category term="Area guide"/></entry>
@@ -56,5 +57,4 @@
 <entry><title>Nurseries in Luton, Bedfordshire</title><link href="https://toddlekids.com/location/bedfordshire/luton"/><id>https://toddlekids.com/location/bedfordshire/luton</id><updated>2026-09-28T21:08:28+00:00</updated><category term="Area guide"/></entry>
 <entry><title>Nurseries in Leighton Buzzard, Bedfordshire</title><link href="https://toddlekids.com/location/bedfordshire/leighton-buzzard"/><id>https://toddlekids.com/location/bedfordshire/leighton-buzzard</id><updated>2026-09-28T21:07:29+00:00</updated><category term="Area guide"/></entry>
 <entry><title>Nurseries in Kempston, Bedfordshire</title><link href="https://toddlekids.com/location/bedfordshire/kempston"/><id>https://toddlekids.com/location/bedfordshire/kempston</id><updated>2026-09-28T21:06:21+00:00</updated><category term="Area guide"/></entry>
-<entry><title>Nurseries in Flitwick, Bedfordshire</title><link href="https://toddlekids.com/location/bedfordshire/flitwick"/><id>https://toddlekids.com/location/bedfordshire/flitwick</id><updated>2026-09-28T21:05:09+00:00</updated><category term="Area guide"/></entry>
 </feed>

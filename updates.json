@@ -1,6 +1,12 @@
 {
- "updated": "2026-09-28T22:03:34+00:00",
+ "updated": "2026-10-05T17:17:22+00:00",
  "items": [
+  {
+   "path": "/nursery/bright-kids-studley",
+   "title": "Bright Kids Studley",
+   "kind": "Nursery",
+   "updated": "2026-10-05T17:17:22+00:00"
+  },
   {
    "path": "/location/cambridgeshire/wisbech",
    "title": "Nurseries in Wisbech, Cambridgeshire",
@@ -294,12 +300,6 @@
    "title": "Nurseries in Kempston, Bedfordshire",
    "kind": "Area guide",
    "updated": "2026-09-28T21:06:21+00:00"
-  },
-  {
-   "path": "/location/bedfordshire/flitwick",
-   "title": "Nurseries in Flitwick, Bedfordshire",
-   "kind": "Area guide",
-   "updated": "2026-09-28T21:05:09+00:00"
   }
  ]
 }

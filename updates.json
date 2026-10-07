@@ -1,6 +1,84 @@
 {
- "updated": "2026-10-05T17:17:22+00:00",
+ "updated": "2026-10-07T21:26:32+00:00",
  "items": [
+  {
+   "path": "/location/berkshire/wokingham",
+   "title": "Nurseries in Wokingham, Berkshire",
+   "kind": "Area guide",
+   "updated": "2026-10-07T21:26:32+00:00"
+  },
+  {
+   "path": "/location/berkshire/windsor",
+   "title": "Nurseries in Windsor, Berkshire",
+   "kind": "Area guide",
+   "updated": "2026-10-07T21:24:51+00:00"
+  },
+  {
+   "path": "/location/berkshire/thatcham",
+   "title": "Nurseries in Thatcham, Berkshire",
+   "kind": "Area guide",
+   "updated": "2026-10-07T21:23:11+00:00"
+  },
+  {
+   "path": "/location/berkshire/slough",
+   "title": "Nurseries in Slough, Berkshire",
+   "kind": "Area guide",
+   "updated": "2026-10-07T21:21:51+00:00"
+  },
+  {
+   "path": "/location/berkshire/sandhurst",
+   "title": "Nurseries in Sandhurst, Berkshire",
+   "kind": "Area guide",
+   "updated": "2026-10-07T21:20:26+00:00"
+  },
+  {
+   "path": "/location/berkshire/reading",
+   "title": "Nurseries in Reading, Berkshire",
+   "kind": "Area guide",
+   "updated": "2026-10-07T21:19:10+00:00"
+  },
+  {
+   "path": "/location/berkshire/newbury",
+   "title": "Nurseries in Newbury, Berkshire",
+   "kind": "Area guide",
+   "updated": "2026-10-07T21:18:02+00:00"
+  },
+  {
+   "path": "/location/berkshire/maidenhead",
+   "title": "Nurseries in Maidenhead, Berkshire",
+   "kind": "Area guide",
+   "updated": "2026-10-07T21:16:35+00:00"
+  },
+  {
+   "path": "/location/berkshire/hungerford",
+   "title": "Nurseries in Hungerford, Berkshire",
+   "kind": "Area guide",
+   "updated": "2026-10-07T21:14:54+00:00"
+  },
+  {
+   "path": "/location/berkshire/crowthorne",
+   "title": "Nurseries in Crowthorne, Berkshire",
+   "kind": "Area guide",
+   "updated": "2026-10-07T21:13:23+00:00"
+  },
+  {
+   "path": "/location/berkshire/bracknell",
+   "title": "Nurseries in Bracknell, Berkshire",
+   "kind": "Area guide",
+   "updated": "2026-10-07T21:12:02+00:00"
+  },
+  {
+   "path": "/location/berkshire/ascot",
+   "title": "Nurseries in Ascot, Berkshire",
+   "kind": "Area guide",
+   "updated": "2026-10-07T21:10:11+00:00"
+  },
+  {
+   "path": "/location/berkshire",
+   "title": "Nurseries in Berkshire",
+   "kind": "Area guide",
+   "updated": "2026-10-07T21:08:32+00:00"
+  },
   {
    "path": "/nursery/bright-kids-studley",
    "title": "Bright Kids Studley",
@@ -222,84 +300,6 @@
    "title": "Nurseries in Macclesfield, Cheshire",
    "kind": "Area guide",
    "updated": "2026-09-28T21:29:55+00:00"
-  },
-  {
-   "path": "/location/cheshire/knutsford",
-   "title": "Nurseries in Knutsford, Cheshire",
-   "kind": "Area guide",
-   "updated": "2026-09-28T21:28:53+00:00"
-  },
-  {
-   "path": "/location/cheshire/hyde",
-   "title": "Nurseries in Hyde, Cheshire",
-   "kind": "Area guide",
-   "updated": "2026-09-28T21:27:53+00:00"
-  },
-  {
-   "path": "/location/cheshire/ellesmere-port",
-   "title": "Nurseries in Ellesmere Port, Cheshire",
-   "kind": "Area guide",
-   "updated": "2026-09-28T21:26:25+00:00"
-  },
-  {
-   "path": "/location/cheshire/congleton",
-   "title": "Nurseries in Congleton, Cheshire",
-   "kind": "Area guide",
-   "updated": "2026-09-28T21:25:32+00:00"
-  },
-  {
-   "path": "/location/cheshire/chester",
-   "title": "Nurseries in Chester, Cheshire",
-   "kind": "Area guide",
-   "updated": "2026-09-28T21:24:25+00:00"
-  },
-  {
-   "path": "/location/cheshire",
-   "title": "Nurseries in Cheshire",
-   "kind": "Area guide",
-   "updated": "2026-09-28T21:23:33+00:00"
-  },
-  {
-   "path": "/location/bedfordshire/stotfold",
-   "title": "Nurseries in Stotfold, Bedfordshire",
-   "kind": "Area guide",
-   "updated": "2026-09-28T21:12:33+00:00"
-  },
-  {
-   "path": "/location/bedfordshire/shefford",
-   "title": "Nurseries in Shefford, Bedfordshire",
-   "kind": "Area guide",
-   "updated": "2026-09-28T21:11:34+00:00"
-  },
-  {
-   "path": "/location/bedfordshire/sharnbrook",
-   "title": "Nurseries in Sharnbrook, Bedfordshire",
-   "kind": "Area guide",
-   "updated": "2026-09-28T21:10:35+00:00"
-  },
-  {
-   "path": "/location/bedfordshire/marston-moretaine",
-   "title": "Nurseries in Marston Moretaine, Bedfordshire",
-   "kind": "Area guide",
-   "updated": "2026-09-28T21:09:23+00:00"
-  },
-  {
-   "path": "/location/bedfordshire/luton",
-   "title": "Nurseries in Luton, Bedfordshire",
-   "kind": "Area guide",
-   "updated": "2026-09-28T21:08:28+00:00"
-  },
-  {
-   "path": "/location/bedfordshire/leighton-buzzard",
-   "title": "Nurseries in Leighton Buzzard, Bedfordshire",
-   "kind": "Area guide",
-   "updated": "2026-09-28T21:07:29+00:00"
-  },
-  {
-   "path": "/location/bedfordshire/kempston",
-   "title": "Nurseries in Kempston, Bedfordshire",
-   "kind": "Area guide",
-   "updated": "2026-09-28T21:06:21+00:00"
   }
  ]
 }

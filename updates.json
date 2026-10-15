@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-08T03:25:08+00:00",
+ "updated": "2026-10-15T20:16:09+00:00",
  "items": [
+  {
+   "path": "/nursery/test-croco11111",
+   "title": "Testing frontend111",
+   "kind": "Nursery",
+   "updated": "2026-10-15T20:16:09+00:00"
+  },
+  {
+   "path": "/nursery/new-tseting-nursery",
+   "title": "New tseting nursery",
+   "kind": "Nursery",
+   "updated": "2026-10-15T20:10:34+00:00"
+  },
   {
    "path": "/location/greater-london/wimbledon",
    "title": "Nurseries in Wimbledon, Greater London",
@@ -288,18 +300,6 @@
    "title": "Nurseries in Bexleyheath, Greater London",
    "kind": "Area guide",
    "updated": "2026-10-08T02:02:21+00:00"
-  },
-  {
-   "path": "/location/greater-london/bexley",
-   "title": "Nurseries in Bexley, Greater London",
-   "kind": "Area guide",
-   "updated": "2026-10-08T02:00:38+00:00"
-  },
-  {
-   "path": "/location/greater-london/belvedere",
-   "title": "Nurseries in Belvedere, Greater London",
-   "kind": "Area guide",
-   "updated": "2026-10-08T01:59:14+00:00"
   }
  ]
 }

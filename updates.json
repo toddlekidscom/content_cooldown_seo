@@ -38,18 +38,6 @@
    "updated": "2026-10-15T21:32:35+00:00"
   },
   {
-   "path": "/nursery/test-croco11111",
-   "title": "Testing frontend111",
-   "kind": "Nursery",
-   "updated": "2026-10-15T20:16:09+00:00"
-  },
-  {
-   "path": "/nursery/new-tseting-nursery",
-   "title": "New tseting nursery",
-   "kind": "Nursery",
-   "updated": "2026-10-15T20:10:34+00:00"
-  },
-  {
    "path": "/location/greater-london/wimbledon",
    "title": "Nurseries in Wimbledon, Greater London",
    "kind": "Area guide",
@@ -300,6 +288,18 @@
    "title": "Nurseries in Coulsdon, Greater London",
    "kind": "Area guide",
    "updated": "2026-10-08T02:14:17+00:00"
+  },
+  {
+   "path": "/location/greater-london/clerkenwell",
+   "title": "Nurseries in Clerkenwell, Greater London",
+   "kind": "Area guide",
+   "updated": "2026-10-08T02:12:15+00:00"
+  },
+  {
+   "path": "/location/greater-london/chessington",
+   "title": "Nurseries in Chessington, Greater London",
+   "kind": "Area guide",
+   "updated": "2026-10-08T02:10:08+00:00"
   }
  ]
 }

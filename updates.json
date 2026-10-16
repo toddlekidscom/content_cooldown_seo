@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-15T20:16:09+00:00",
+ "updated": "2026-10-15T21:35:45+00:00",
  "items": [
+  {
+   "path": "/nursery/childrens-montessori-nursery",
+   "title": "Children’s Montessori Nursery",
+   "kind": "Nursery",
+   "updated": "2026-10-15T21:35:45+00:00"
+  },
+  {
+   "path": "/nursery/great-gransden-pre-school-playgroup",
+   "title": "Great Gransden Pre-School Playgroup",
+   "kind": "Nursery",
+   "updated": "2026-10-15T21:35:23+00:00"
+  },
+  {
+   "path": "/nursery/greenfields-day-nursery",
+   "title": "Greenfields Day Nursery",
+   "kind": "Nursery",
+   "updated": "2026-10-15T21:34:53+00:00"
+  },
+  {
+   "path": "/location/bedfordshire/sandy",
+   "title": "Nurseries in Sandy, Bedfordshire",
+   "kind": "Area guide",
+   "updated": "2026-10-15T21:32:39+00:00"
+  },
+  {
+   "path": "/location/cambridgeshire/gamlingay",
+   "title": "Nurseries in Gamlingay, Cambridgeshire",
+   "kind": "Area guide",
+   "updated": "2026-10-15T21:32:35+00:00"
+  },
+  {
+   "path": "/location/cambridgeshire/great-gransden",
+   "title": "Nurseries in Great Gransden, Cambridgeshire",
+   "kind": "Area guide",
+   "updated": "2026-10-15T21:32:35+00:00"
+  },
   {
    "path": "/nursery/test-croco11111",
    "title": "Testing frontend111",
@@ -264,42 +300,6 @@
    "title": "Nurseries in Coulsdon, Greater London",
    "kind": "Area guide",
    "updated": "2026-10-08T02:14:17+00:00"
-  },
-  {
-   "path": "/location/greater-london/clerkenwell",
-   "title": "Nurseries in Clerkenwell, Greater London",
-   "kind": "Area guide",
-   "updated": "2026-10-08T02:12:15+00:00"
-  },
-  {
-   "path": "/location/greater-london/chessington",
-   "title": "Nurseries in Chessington, Greater London",
-   "kind": "Area guide",
-   "updated": "2026-10-08T02:10:08+00:00"
-  },
-  {
-   "path": "/location/greater-london/bromley",
-   "title": "Nurseries in Bromley, Greater London",
-   "kind": "Area guide",
-   "updated": "2026-10-08T02:08:08+00:00"
-  },
-  {
-   "path": "/location/greater-london/brent",
-   "title": "Nurseries in Brent, Greater London",
-   "kind": "Area guide",
-   "updated": "2026-10-08T02:06:17+00:00"
-  },
-  {
-   "path": "/location/greater-london/blackheath",
-   "title": "Nurseries in Blackheath, Greater London",
-   "kind": "Area guide",
-   "updated": "2026-10-08T02:04:00+00:00"
-  },
-  {
-   "path": "/location/greater-london/bexleyheath",
-   "title": "Nurseries in Bexleyheath, Greater London",
-   "kind": "Area guide",
-   "updated": "2026-10-08T02:02:21+00:00"
   }
  ]
 }

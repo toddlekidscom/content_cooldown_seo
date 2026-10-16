@@ -5,8 +5,14 @@
 <link rel="self" type="application/atom+xml" href="https://toddlekids.com/feeds/updates.xml"/>
 <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <link rel="alternate" type="text/html" href="https://toddlekids.com/"/>
-<updated>2026-10-15T20:16:09+00:00</updated>
+<updated>2026-10-15T21:35:45+00:00</updated>
 <author><name>Toddle</name></author>
+<entry><title>Children’s Montessori Nursery</title><link href="https://toddlekids.com/nursery/childrens-montessori-nursery"/><id>https://toddlekids.com/nursery/childrens-montessori-nursery</id><updated>2026-10-15T21:35:45+00:00</updated><category term="Nursery"/></entry>
+<entry><title>Great Gransden Pre-School Playgroup</title><link href="https://toddlekids.com/nursery/great-gransden-pre-school-playgroup"/><id>https://toddlekids.com/nursery/great-gransden-pre-school-playgroup</id><updated>2026-10-15T21:35:23+00:00</updated><category term="Nursery"/></entry>
+<entry><title>Greenfields Day Nursery</title><link href="https://toddlekids.com/nursery/greenfields-day-nursery"/><id>https://toddlekids.com/nursery/greenfields-day-nursery</id><updated>2026-10-15T21:34:53+00:00</updated><category term="Nursery"/></entry>
+<entry><title>Nurseries in Sandy, Bedfordshire</title><link href="https://toddlekids.com/location/bedfordshire/sandy"/><id>https://toddlekids.com/location/bedfordshire/sandy</id><updated>2026-10-15T21:32:39+00:00</updated><category term="Area guide"/></entry>
+<entry><title>Nurseries in Gamlingay, Cambridgeshire</title><link href="https://toddlekids.com/location/cambridgeshire/gamlingay"/><id>https://toddlekids.com/location/cambridgeshire/gamlingay</id><updated>2026-10-15T21:32:35+00:00</updated><category term="Area guide"/></entry>
+<entry><title>Nurseries in Great Gransden, Cambridgeshire</title><link href="https://toddlekids.com/location/cambridgeshire/great-gransden"/><id>https://toddlekids.com/location/cambridgeshire/great-gransden</id><updated>2026-10-15T21:32:35+00:00</updated><category term="Area guide"/></entry>
 <entry><title>Testing frontend111</title><link href="https://toddlekids.com/nursery/test-croco11111"/><id>https://toddlekids.com/nursery/test-croco11111</id><updated>2026-10-15T20:16:09+00:00</updated><category term="Nursery"/></entry>
 <entry><title>New tseting nursery</title><link href="https://toddlekids.com/nursery/new-tseting-nursery"/><id>https://toddlekids.com/nursery/new-tseting-nursery</id><updated>2026-10-15T20:10:34+00:00</updated><category term="Nursery"/></entry>
 <entry><title>Nurseries in Wimbledon, Greater London</title><link href="https://toddlekids.com/location/greater-london/wimbledon"/><id>https://toddlekids.com/location/greater-london/wimbledon</id><updated>2026-10-08T03:25:08+00:00</updated><category term="Area guide"/></entry>
@@ -51,10 +57,4 @@
 <entry><title>Nurseries in Croydon, Greater London</title><link href="https://toddlekids.com/location/greater-london/croydon"/><id>https://toddlekids.com/location/greater-london/croydon</id><updated>2026-10-08T02:18:54+00:00</updated><category term="Area guide"/></entry>
 <entry><title>Nurseries in Cranford, Greater London</title><link href="https://toddlekids.com/location/greater-london/cranford"/><id>https://toddlekids.com/location/greater-london/cranford</id><updated>2026-10-08T02:16:09+00:00</updated><category term="Area guide"/></entry>
 <entry><title>Nurseries in Coulsdon, Greater London</title><link href="https://toddlekids.com/location/greater-london/coulsdon"/><id>https://toddlekids.com/location/greater-london/coulsdon</id><updated>2026-10-08T02:14:17+00:00</updated><category term="Area guide"/></entry>
-<entry><title>Nurseries in Clerkenwell, Greater London</title><link href="https://toddlekids.com/location/greater-london/clerkenwell"/><id>https://toddlekids.com/location/greater-london/clerkenwell</id><updated>2026-10-08T02:12:15+00:00</updated><category term="Area guide"/></entry>
-<entry><title>Nurseries in Chessington, Greater London</title><link href="https://toddlekids.com/location/greater-london/chessington"/><id>https://toddlekids.com/location/greater-london/chessington</id><updated>2026-10-08T02:10:08+00:00</updated><category term="Area guide"/></entry>
-<entry><title>Nurseries in Bromley, Greater London</title><link href="https://toddlekids.com/location/greater-london/bromley"/><id>https://toddlekids.com/location/greater-london/bromley</id><updated>2026-10-08T02:08:08+00:00</updated><category term="Area guide"/></entry>
-<entry><title>Nurseries in Brent, Greater London</title><link href="https://toddlekids.com/location/greater-london/brent"/><id>https://toddlekids.com/location/greater-london/brent</id><updated>2026-10-08T02:06:17+00:00</updated><category term="Area guide"/></entry>
-<entry><title>Nurseries in Blackheath, Greater London</title><link href="https://toddlekids.com/location/greater-london/blackheath"/><id>https://toddlekids.com/location/greater-london/blackheath</id><updated>2026-10-08T02:04:00+00:00</updated><category term="Area guide"/></entry>
-<entry><title>Nurseries in Bexleyheath, Greater London</title><link href="https://toddlekids.com/location/greater-london/bexleyheath"/><id>https://toddlekids.com/location/greater-london/bexleyheath</id><updated>2026-10-08T02:02:21+00:00</updated><category term="Area guide"/></entry>
 </feed>

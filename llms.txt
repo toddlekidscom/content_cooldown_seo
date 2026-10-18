@@ -1,6 +1,6 @@
 # Toddle
 
-> Toddle (toddlekids.com) is a free UK nursery finder. Parents search by town, county or postcode to find and compare 1,010 day nurseries, pre-schools and nursery schools across 45 counties in England, then contact a nursery directly. It costs parents nothing.
+> Toddle (toddlekids.com) is a free UK nursery finder. Parents search by town, county or postcode to find and compare 1,007 day nurseries, pre-schools and nursery schools across 45 counties in England, then contact a nursery directly. It costs parents nothing.
 
 Each nursery page shows, where the nursery has provided it:
 - The latest Ofsted rating, with the sub-grades and a link to the full Ofsted report
@@ -31,11 +31,11 @@ Nurseries list on Toddle for free, and every parent enquiry is passed to the nur
 - [Nurseries in Cambridgeshire](https://toddlekids.com/location/cambridgeshire): 38 nurseries
 - [Nurseries in Bedfordshire](https://toddlekids.com/location/bedfordshire): 35 nurseries
 - [Nurseries in Somerset](https://toddlekids.com/location/somerset): 34 nurseries
-- [Nurseries in Derbyshire](https://toddlekids.com/location/derbyshire): 31 nurseries
+- [Nurseries in Derbyshire](https://toddlekids.com/location/derbyshire): 30 nurseries
 - [Nurseries in Bristol](https://toddlekids.com/location/bristol): 29 nurseries
 - [Nurseries in Leicestershire](https://toddlekids.com/location/leicestershire): 28 nurseries
 - [Nurseries in Lincolnshire](https://toddlekids.com/location/lincolnshire): 26 nurseries
-- [Nurseries in Gloucestershire](https://toddlekids.com/location/gloucestershire): 22 nurseries
+- [Nurseries in Gloucestershire](https://toddlekids.com/location/gloucestershire): 21 nurseries
 - [Nurseries in Northamptonshire](https://toddlekids.com/location/northamptonshire): 21 nurseries
 - [Nurseries in Cumbria](https://toddlekids.com/location/cumbria): 15 nurseries
 - [Nurseries in Nottinghamshire](https://toddlekids.com/location/nottinghamshire): 14 nurseries
@@ -53,7 +53,6 @@ Nurseries list on Toddle for free, and every parent enquiry is passed to the nur
 - [Nurseries in South Yorkshire](https://toddlekids.com/location/south-yorkshire): 9 nurseries
 - [Nurseries in West Midlands](https://toddlekids.com/location/west-midlands): 9 nurseries
 - [Nurseries in West Yorkshire](https://toddlekids.com/location/west-yorkshire): 9 nurseries
-- [Nurseries in Dorset](https://toddlekids.com/location/dorset): 8 nurseries
 - [Nurseries in East Riding of Yorkshire](https://toddlekids.com/location/east-riding-of-yorkshire): 8 nurseries
 - [Nurseries in East Sussex](https://toddlekids.com/location/east-sussex): 8 nurseries
 - [Nurseries in Greater Manchester](https://toddlekids.com/location/greater-manchester): 8 nurseries
@@ -61,6 +60,7 @@ Nurseries list on Toddle for free, and every parent enquiry is passed to the nur
 - [Nurseries in West Sussex](https://toddlekids.com/location/west-sussex): 8 nurseries
 - [Nurseries in Worcestershire](https://toddlekids.com/location/worcestershire): 8 nurseries
 - [Nurseries in Devon](https://toddlekids.com/location/devon): 7 nurseries
+- [Nurseries in Dorset](https://toddlekids.com/location/dorset): 7 nurseries
 - [Nurseries in North Yorkshire](https://toddlekids.com/location/north-yorkshire): 7 nurseries
 - [Nurseries in Merseyside](https://toddlekids.com/location/merseyside): 6 nurseries
 - [Nurseries in Norfolk](https://toddlekids.com/location/norfolk): 6 nurseries

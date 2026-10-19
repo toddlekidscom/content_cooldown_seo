@@ -1,6 +1,12 @@
 {
- "updated": "2026-10-15T21:35:45+00:00",
+ "updated": "2026-10-19T15:17:04+00:00",
  "items": [
+  {
+   "path": "/location/greater-london/london",
+   "title": "Nurseries in London, Greater London",
+   "kind": "Area guide",
+   "updated": "2026-10-19T15:17:04+00:00"
+  },
   {
    "path": "/nursery/childrens-montessori-nursery",
    "title": "Children’s Montessori Nursery",
@@ -96,12 +102,6 @@
    "title": "Nurseries in Orpington, Greater London",
    "kind": "Area guide",
    "updated": "2026-10-08T02:54:18+00:00"
-  },
-  {
-   "path": "/location/greater-london/london",
-   "title": "Nurseries in London, Greater London",
-   "kind": "Area guide",
-   "updated": "2026-10-08T02:49:29+00:00"
   },
   {
    "path": "/location/greater-london/kingston-upon-thames",

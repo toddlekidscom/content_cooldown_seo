@@ -23,7 +23,7 @@ Nurseries list on Toddle for free, and every parent enquiry is passed to the nur
 
 ## Nurseries by county
 
-- [Nurseries in Greater London](https://toddlekids.com/location/greater-london): 298 nurseries
+- [Nurseries in Greater London](https://toddlekids.com/location/greater-london): 303 nurseries
 - [Nurseries in Cornwall](https://toddlekids.com/location/cornwall): 50 nurseries
 - [Nurseries in Buckinghamshire](https://toddlekids.com/location/buckinghamshire): 48 nurseries
 - [Nurseries in Berkshire](https://toddlekids.com/location/berkshire): 47 nurseries
@@ -39,16 +39,16 @@ Nurseries list on Toddle for free, and every parent enquiry is passed to the nur
 - [Nurseries in Northamptonshire](https://toddlekids.com/location/northamptonshire): 21 nurseries
 - [Nurseries in Cumbria](https://toddlekids.com/location/cumbria): 15 nurseries
 - [Nurseries in Nottinghamshire](https://toddlekids.com/location/nottinghamshire): 14 nurseries
-- [Nurseries in Essex](https://toddlekids.com/location/essex): 12 nurseries
 - [Nurseries in Tyne and Wear](https://toddlekids.com/location/tyne-and-wear): 12 nurseries
-- [Nurseries in Kent](https://toddlekids.com/location/kent): 11 nurseries
 - [Nurseries in Shropshire](https://toddlekids.com/location/shropshire): 11 nurseries
-- [Nurseries in Surrey](https://toddlekids.com/location/surrey): 11 nurseries
+- [Nurseries in Warwickshire](https://toddlekids.com/location/warwickshire): 11 nurseries
 - [Nurseries in Durham](https://toddlekids.com/location/durham): 10 nurseries
-- [Nurseries in Hertfordshire](https://toddlekids.com/location/hertfordshire): 10 nurseries
-- [Nurseries in Warwickshire](https://toddlekids.com/location/warwickshire): 10 nurseries
-- [Nurseries in Hampshire](https://toddlekids.com/location/hampshire): 9 nurseries
+- [Nurseries in Hampshire](https://toddlekids.com/location/hampshire): 10 nurseries
+- [Nurseries in Kent](https://toddlekids.com/location/kent): 10 nurseries
+- [Nurseries in Surrey](https://toddlekids.com/location/surrey): 10 nurseries
+- [Nurseries in Essex](https://toddlekids.com/location/essex): 9 nurseries
 - [Nurseries in Herefordshire](https://toddlekids.com/location/herefordshire): 9 nurseries
+- [Nurseries in Hertfordshire](https://toddlekids.com/location/hertfordshire): 9 nurseries
 - [Nurseries in Oxfordshire](https://toddlekids.com/location/oxfordshire): 9 nurseries
 - [Nurseries in South Yorkshire](https://toddlekids.com/location/south-yorkshire): 9 nurseries
 - [Nurseries in West Midlands](https://toddlekids.com/location/west-midlands): 9 nurseries
@@ -73,18 +73,16 @@ Nurseries list on Toddle for free, and every parent enquiry is passed to the nur
 
 - [Nurseries in London, Greater London](https://toddlekids.com/location/greater-london/london): 195 nurseries
 - [Nurseries in Slough, Berkshire](https://toddlekids.com/location/berkshire/slough): 13 nurseries
-- [Nurseries in Thatcham, Berkshire](https://toddlekids.com/location/berkshire/thatcham): 12 nurseries
 - [Nurseries in Helston, Cornwall](https://toddlekids.com/location/cornwall/helston): 11 nurseries
+- [Nurseries in Thatcham, Berkshire](https://toddlekids.com/location/berkshire/thatcham): 11 nurseries
 - [Nurseries in Huntingdon, Cambridgeshire](https://toddlekids.com/location/cambridgeshire/huntingdon): 10 nurseries
 - [Nurseries in Dunstable, Bedfordshire](https://toddlekids.com/location/bedfordshire/dunstable): 9 nurseries
 - [Nurseries in High Wycombe, Buckinghamshire](https://toddlekids.com/location/buckinghamshire/high-wycombe): 9 nurseries
 - [Nurseries in Northwich, Cheshire](https://toddlekids.com/location/cheshire/northwich): 9 nurseries
 - [Nurseries in Alfreton, Derbyshire](https://toddlekids.com/location/derbyshire/alfreton): 7 nurseries
-- [Nurseries in Kingswood, Gloucestershire](https://toddlekids.com/location/gloucestershire/kingswood): 7 nurseries
 - [Nurseries in Nantwich, Cheshire](https://toddlekids.com/location/cheshire/nantwich): 7 nurseries
 - [Nurseries in Northampton, Northamptonshire](https://toddlekids.com/location/northamptonshire/northampton): 7 nurseries
 - [Nurseries in Scunthorpe, Lincolnshire](https://toddlekids.com/location/lincolnshire/scunthorpe): 7 nurseries
-- [Nurseries in Swadlincote, Derbyshire](https://toddlekids.com/location/derbyshire/swadlincote): 7 nurseries
 - [Nurseries in Belper, Derbyshire](https://toddlekids.com/location/derbyshire/belper): 6 nurseries
 - [Nurseries in Birmingham, West Midlands](https://toddlekids.com/location/west-midlands/birmingham): 6 nurseries
 - [Nurseries in Ely, Cambridgeshire](https://toddlekids.com/location/cambridgeshire/ely): 6 nurseries
@@ -101,6 +99,8 @@ Nurseries list on Toddle for free, and every parent enquiry is passed to the nur
 - [Nurseries in Bodmin, Cornwall](https://toddlekids.com/location/cornwall/bodmin): 5 nurseries
 - [Nurseries in Bromley, Greater London](https://toddlekids.com/location/greater-london/bromley): 5 nurseries
 - [Nurseries in Cambridge, Cambridgeshire](https://toddlekids.com/location/cambridgeshire/cambridge): 5 nurseries
+- [Nurseries in Chester, Cheshire](https://toddlekids.com/location/cheshire/chester): 5 nurseries
+- [Nurseries in Congleton, Cheshire](https://toddlekids.com/location/cheshire/congleton): 5 nurseries
 
 ## Guides for parents
 

@@ -1,6 +1,12 @@
 {
- "updated": "2026-10-21T09:03:27+00:00",
+ "updated": "2026-10-21T14:16:47+00:00",
  "items": [
+  {
+   "path": "/nursery/mara-childrens-nursery-and-work-hub-ltd",
+   "title": "Mara Childrens Nursery and Work Hub Ltd",
+   "kind": "Nursery",
+   "updated": "2026-10-21T14:16:47+00:00"
+  },
   {
    "path": "/nursery/little-nas-nursery",
    "title": "Little Nas Nursery",
@@ -294,12 +300,6 @@
    "title": "Kingswood Pre School Group",
    "kind": "Nursery",
    "updated": "2026-10-20T21:15:42+00:00"
-  },
-  {
-   "path": "/nursery/easton-pre-school-group",
-   "title": "Easton Pre-School Group",
-   "kind": "Nursery",
-   "updated": "2026-10-20T21:15:40+00:00"
   }
  ]
 }

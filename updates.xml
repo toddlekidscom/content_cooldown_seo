@@ -5,8 +5,9 @@
 <link rel="self" type="application/atom+xml" href="https://toddlekids.com/feeds/updates.xml"/>
 <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <link rel="alternate" type="text/html" href="https://toddlekids.com/"/>
-<updated>2026-10-21T09:03:27+00:00</updated>
+<updated>2026-10-21T14:16:47+00:00</updated>
 <author><name>Toddle</name></author>
+<entry><title>Mara Childrens Nursery and Work Hub Ltd</title><link href="https://toddlekids.com/nursery/mara-childrens-nursery-and-work-hub-ltd"/><id>https://toddlekids.com/nursery/mara-childrens-nursery-and-work-hub-ltd</id><updated>2026-10-21T14:16:47+00:00</updated><category term="Nursery"/></entry>
 <entry><title>Little Nas Nursery</title><link href="https://toddlekids.com/nursery/little-nas-nursery"/><id>https://toddlekids.com/nursery/little-nas-nursery</id><updated>2026-10-21T09:03:27+00:00</updated><category term="Nursery"/></entry>
 <entry><title>Nurseries in Kingswood, Gloucestershire</title><link href="https://toddlekids.com/location/gloucestershire/kingswood"/><id>https://toddlekids.com/location/gloucestershire/kingswood</id><updated>2026-10-20T21:51:21+00:00</updated><category term="Area guide"/></entry>
 <entry><title>Nurseries in Swadlincote, Derbyshire</title><link href="https://toddlekids.com/location/derbyshire/swadlincote"/><id>https://toddlekids.com/location/derbyshire/swadlincote</id><updated>2026-10-20T21:51:14+00:00</updated><category term="Area guide"/></entry>
@@ -56,5 +57,4 @@
 <entry><title>Meadow Lane Children’s Nursery</title><link href="https://toddlekids.com/nursery/meadow-lane-childrens-nursery"/><id>https://toddlekids.com/nursery/meadow-lane-childrens-nursery</id><updated>2026-10-20T21:15:49+00:00</updated><category term="Nursery"/></entry>
 <entry><title>Kingswood Methodist Church PreSchool</title><link href="https://toddlekids.com/nursery/kingswood-methodist-church-preschool"/><id>https://toddlekids.com/nursery/kingswood-methodist-church-preschool</id><updated>2026-10-20T21:15:45+00:00</updated><category term="Nursery"/></entry>
 <entry><title>Kingswood Pre School Group</title><link href="https://toddlekids.com/nursery/kingswood-pre-school-group"/><id>https://toddlekids.com/nursery/kingswood-pre-school-group</id><updated>2026-10-20T21:15:42+00:00</updated><category term="Nursery"/></entry>
-<entry><title>Easton Pre-School Group</title><link href="https://toddlekids.com/nursery/easton-pre-school-group"/><id>https://toddlekids.com/nursery/easton-pre-school-group</id><updated>2026-10-20T21:15:40+00:00</updated><category term="Nursery"/></entry>
 </feed>

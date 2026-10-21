@@ -26,7 +26,7 @@ Nurseries list on Toddle for free, and every parent enquiry is passed to the nur
 - [Nurseries in Greater London](https://toddlekids.com/location/greater-london): 304 nurseries
 - [Nurseries in Cornwall](https://toddlekids.com/location/cornwall): 50 nurseries
 - [Nurseries in Buckinghamshire](https://toddlekids.com/location/buckinghamshire): 48 nurseries
-- [Nurseries in Berkshire](https://toddlekids.com/location/berkshire): 47 nurseries
+- [Nurseries in Berkshire](https://toddlekids.com/location/berkshire): 46 nurseries
 - [Nurseries in Cheshire](https://toddlekids.com/location/cheshire): 43 nurseries
 - [Nurseries in Cambridgeshire](https://toddlekids.com/location/cambridgeshire): 38 nurseries
 - [Nurseries in Bedfordshire](https://toddlekids.com/location/bedfordshire): 35 nurseries
@@ -72,7 +72,7 @@ Nurseries list on Toddle for free, and every parent enquiry is passed to the nur
 ## Most-listed towns
 
 - [Nurseries in London, Greater London](https://toddlekids.com/location/greater-london/london): 195 nurseries
-- [Nurseries in Slough, Berkshire](https://toddlekids.com/location/berkshire/slough): 13 nurseries
+- [Nurseries in Slough, Berkshire](https://toddlekids.com/location/berkshire/slough): 12 nurseries
 - [Nurseries in Helston, Cornwall](https://toddlekids.com/location/cornwall/helston): 11 nurseries
 - [Nurseries in Thatcham, Berkshire](https://toddlekids.com/location/berkshire/thatcham): 11 nurseries
 - [Nurseries in Huntingdon, Cambridgeshire](https://toddlekids.com/location/cambridgeshire/huntingdon): 10 nurseries

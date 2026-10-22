@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-22T11:30:38+00:00",
+ "updated": "2026-10-22T15:54:18+00:00",
  "items": [
+  {
+   "path": "/nursery/the-bloom-childcare-group-bradfield",
+   "title": "The Bloom Childcare Group Bradfield",
+   "kind": "Nursery",
+   "updated": "2026-10-22T15:54:18+00:00"
+  },
+  {
+   "path": "/nursery/little-rainbows-childcare-ltd",
+   "title": "Little Rainbows Childcare LTD",
+   "kind": "Nursery",
+   "updated": "2026-10-22T11:59:12+00:00"
+  },
   {
    "path": "/nursery/abc-123-day-nursery-ltd",
    "title": "ABC 123 Day Nursery Ltd",
@@ -12,12 +24,6 @@
    "title": "The Cottage Private Day Nursery (Mansfield Road)",
    "kind": "Nursery",
    "updated": "2026-10-22T11:25:01+00:00"
-  },
-  {
-   "path": "/nursery/little-rainbows-childcare-ltd",
-   "title": "Little Rainbows Childcare LTD",
-   "kind": "Nursery",
-   "updated": "2026-10-22T11:18:49+00:00"
   },
   {
    "path": "/nursery/three-bears-childcare",
@@ -294,12 +300,6 @@
    "title": "Club 4 U Ltd",
    "kind": "Nursery",
    "updated": "2026-10-20T21:15:55+00:00"
-  },
-  {
-   "path": "/nursery/kindred-st-ives",
-   "title": "Kindred St.Ives",
-   "kind": "Nursery",
-   "updated": "2026-10-20T21:15:53+00:00"
   }
  ]
 }

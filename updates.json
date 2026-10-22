@@ -1,6 +1,30 @@
 {
- "updated": "2026-10-21T14:16:47+00:00",
+ "updated": "2026-10-22T11:30:38+00:00",
  "items": [
+  {
+   "path": "/nursery/abc-123-day-nursery-ltd",
+   "title": "ABC 123 Day Nursery Ltd",
+   "kind": "Nursery",
+   "updated": "2026-10-22T11:30:38+00:00"
+  },
+  {
+   "path": "/nursery/the-cottage-private-day-nursery-mansfield-road-2",
+   "title": "The Cottage Private Day Nursery (Mansfield Road)",
+   "kind": "Nursery",
+   "updated": "2026-10-22T11:25:01+00:00"
+  },
+  {
+   "path": "/nursery/little-rainbows-childcare-ltd",
+   "title": "Little Rainbows Childcare LTD",
+   "kind": "Nursery",
+   "updated": "2026-10-22T11:18:49+00:00"
+  },
+  {
+   "path": "/nursery/three-bears-childcare",
+   "title": "Three Bears Childcare",
+   "kind": "Nursery",
+   "updated": "2026-10-22T06:49:17+00:00"
+  },
   {
    "path": "/nursery/mara-childrens-nursery-and-work-hub-ltd",
    "title": "Mara Childrens Nursery and Work Hub Ltd",
@@ -276,30 +300,6 @@
    "title": "Kindred St.Ives",
    "kind": "Nursery",
    "updated": "2026-10-20T21:15:53+00:00"
-  },
-  {
-   "path": "/nursery/needingworth-community-pre-school",
-   "title": "Needingworth Community Pre-School",
-   "kind": "Nursery",
-   "updated": "2026-10-20T21:15:52+00:00"
-  },
-  {
-   "path": "/nursery/meadow-lane-childrens-nursery",
-   "title": "Meadow Lane Children’s Nursery",
-   "kind": "Nursery",
-   "updated": "2026-10-20T21:15:49+00:00"
-  },
-  {
-   "path": "/nursery/kingswood-methodist-church-preschool",
-   "title": "Kingswood Methodist Church PreSchool",
-   "kind": "Nursery",
-   "updated": "2026-10-20T21:15:45+00:00"
-  },
-  {
-   "path": "/nursery/kingswood-pre-school-group",
-   "title": "Kingswood Pre School Group",
-   "kind": "Nursery",
-   "updated": "2026-10-20T21:15:42+00:00"
   }
  ]
 }

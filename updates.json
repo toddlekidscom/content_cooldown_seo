@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-22T15:54:18+00:00",
+ "updated": "2026-10-22T20:22:45+00:00",
  "items": [
+  {
+   "path": "/nursery/the-bloom-childcare-group-lexden",
+   "title": "The Bloom Childcare Group Lexden",
+   "kind": "Nursery",
+   "updated": "2026-10-22T20:22:45+00:00"
+  },
+  {
+   "path": "/nursery/the-bloom-childcare-group-grundisburgh",
+   "title": "The Bloom Childcare Group Grundisburgh",
+   "kind": "Nursery",
+   "updated": "2026-10-22T20:17:58+00:00"
+  },
   {
    "path": "/nursery/the-bloom-childcare-group-bradfield",
    "title": "The Bloom Childcare Group Bradfield",
@@ -288,18 +300,6 @@
    "title": "Happy Hedgehogs",
    "kind": "Nursery",
    "updated": "2026-10-20T21:15:58+00:00"
-  },
-  {
-   "path": "/nursery/kids-planet-donisthorpe",
-   "title": "Kids Planet Donisthorpe",
-   "kind": "Nursery",
-   "updated": "2026-10-20T21:15:57+00:00"
-  },
-  {
-   "path": "/nursery/club-4-u-ltd",
-   "title": "Club 4 U Ltd",
-   "kind": "Nursery",
-   "updated": "2026-10-20T21:15:55+00:00"
   }
  ]
 }

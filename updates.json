@@ -1,6 +1,12 @@
 {
- "updated": "2026-10-22T20:22:45+00:00",
+ "updated": "2026-10-23T09:18:38+00:00",
  "items": [
+  {
+   "path": "/nursery/little-rainbows-childcare-ltd",
+   "title": "Little Rainbows Childcare LTD",
+   "kind": "Nursery",
+   "updated": "2026-10-23T09:18:38+00:00"
+  },
   {
    "path": "/nursery/the-bloom-childcare-group-lexden",
    "title": "The Bloom Childcare Group Lexden",
@@ -18,12 +24,6 @@
    "title": "The Bloom Childcare Group Bradfield",
    "kind": "Nursery",
    "updated": "2026-10-22T15:54:18+00:00"
-  },
-  {
-   "path": "/nursery/little-rainbows-childcare-ltd",
-   "title": "Little Rainbows Childcare LTD",
-   "kind": "Nursery",
-   "updated": "2026-10-22T11:59:12+00:00"
   },
   {
    "path": "/nursery/abc-123-day-nursery-ltd",

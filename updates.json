@@ -1,6 +1,12 @@
 {
- "updated": "2026-10-23T09:18:38+00:00",
+ "updated": "2026-10-24T17:35:27+00:00",
  "items": [
+  {
+   "path": "/location/greater-london/london",
+   "title": "Nurseries in London, Greater London",
+   "kind": "Area guide",
+   "updated": "2026-10-24T17:35:27+00:00"
+  },
   {
    "path": "/nursery/little-rainbows-childcare-ltd",
    "title": "Little Rainbows Childcare LTD",
@@ -42,6 +48,12 @@
    "title": "Three Bears Childcare",
    "kind": "Nursery",
    "updated": "2026-10-22T06:49:17+00:00"
+  },
+  {
+   "path": "/location/greater-london",
+   "title": "Nurseries in Greater London",
+   "kind": "Area guide",
+   "updated": "2026-10-21T14:16:47+00:00"
   },
   {
    "path": "/nursery/mara-childrens-nursery-and-work-hub-ltd",
@@ -230,16 +242,16 @@
    "updated": "2026-10-20T21:44:32+00:00"
   },
   {
-   "path": "/location/greater-london",
-   "title": "Nurseries in Greater London",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:44:25+00:00"
-  },
-  {
    "path": "/nursery/west-street-neighbourhood-nursery",
    "title": "West Street Neighbourhood Nursery",
    "kind": "Nursery",
    "updated": "2026-10-20T21:39:42+00:00"
+  },
+  {
+   "path": "/location/greater-london/barnet",
+   "title": "Nurseries in Barnet, Greater London",
+   "kind": "Area guide",
+   "updated": "2026-10-20T21:32:35+00:00"
   },
   {
    "path": "/nursery/foulds-pre-school-ltd",
@@ -254,10 +266,22 @@
    "updated": "2026-10-20T21:32:34+00:00"
   },
   {
+   "path": "/location/greater-london/hornchurch",
+   "title": "Nurseries in Hornchurch, Greater London",
+   "kind": "Area guide",
+   "updated": "2026-10-20T21:32:32+00:00"
+  },
+  {
    "path": "/nursery/upminster-little-learners-day-nursery",
    "title": "Upminster Little Learners Day Nursery",
    "kind": "Nursery",
    "updated": "2026-10-20T21:32:32+00:00"
+  },
+  {
+   "path": "/location/greater-london/orpington",
+   "title": "Nurseries in Orpington, Greater London",
+   "kind": "Area guide",
+   "updated": "2026-10-20T21:32:31+00:00"
   },
   {
    "path": "/nursery/hayeswick-farnborough",
@@ -266,40 +290,16 @@
    "updated": "2026-10-20T21:32:31+00:00"
   },
   {
+   "path": "/location/greater-london/ilford",
+   "title": "Nurseries in Ilford, Greater London",
+   "kind": "Area guide",
+   "updated": "2026-10-20T21:32:30+00:00"
+  },
+  {
    "path": "/nursery/headstart-montessorians-day-nursery",
    "title": "Headstart Montessorians Day Nursery",
    "kind": "Nursery",
    "updated": "2026-10-20T21:32:30+00:00"
-  },
-  {
-   "path": "/nursery/little-lodge-nursery",
-   "title": "Little Lodge Nursery",
-   "kind": "Nursery",
-   "updated": "2026-10-20T21:16:05+00:00"
-  },
-  {
-   "path": "/nursery/bright-kids-studley",
-   "title": "Bright Kids Studley",
-   "kind": "Nursery",
-   "updated": "2026-10-20T21:16:02+00:00"
-  },
-  {
-   "path": "/nursery/moira-pre-school",
-   "title": "Moira Pre-School",
-   "kind": "Nursery",
-   "updated": "2026-10-20T21:16:01+00:00"
-  },
-  {
-   "path": "/nursery/evergreen-lodge-nursery-and-preschool-limited",
-   "title": "Evergreen Lodge Nursery and Preschool Limited",
-   "kind": "Nursery",
-   "updated": "2026-10-20T21:15:59+00:00"
-  },
-  {
-   "path": "/nursery/happy-hedgehogs",
-   "title": "Happy Hedgehogs",
-   "kind": "Nursery",
-   "updated": "2026-10-20T21:15:58+00:00"
   }
  ]
 }

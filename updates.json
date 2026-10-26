@@ -1,6 +1,12 @@
 {
- "updated": "2026-10-24T17:35:27+00:00",
+ "updated": "2026-10-26T22:38:28+00:00",
  "items": [
+  {
+   "path": "/nursery/testing-one",
+   "title": "Testing one",
+   "kind": "Nursery",
+   "updated": "2026-10-26T22:38:28+00:00"
+  },
   {
    "path": "/location/greater-london/london",
    "title": "Nurseries in London, Greater London",
@@ -293,12 +299,6 @@
    "path": "/location/greater-london/ilford",
    "title": "Nurseries in Ilford, Greater London",
    "kind": "Area guide",
-   "updated": "2026-10-20T21:32:30+00:00"
-  },
-  {
-   "path": "/nursery/headstart-montessorians-day-nursery",
-   "title": "Headstart Montessorians Day Nursery",
-   "kind": "Nursery",
    "updated": "2026-10-20T21:32:30+00:00"
   }
  ]

@@ -29,7 +29,7 @@ Nurseries list on Toddle for free, and every parent enquiry is passed to the nur
 - [Nurseries in Berkshire](https://toddlekids.com/location/berkshire): 46 nurseries
 - [Nurseries in Cheshire](https://toddlekids.com/location/cheshire): 43 nurseries
 - [Nurseries in Cambridgeshire](https://toddlekids.com/location/cambridgeshire): 38 nurseries
-- [Nurseries in Bedfordshire](https://toddlekids.com/location/bedfordshire): 35 nurseries
+- [Nurseries in Bedfordshire](https://toddlekids.com/location/bedfordshire): 36 nurseries
 - [Nurseries in Somerset](https://toddlekids.com/location/somerset): 34 nurseries
 - [Nurseries in Derbyshire](https://toddlekids.com/location/derbyshire): 30 nurseries
 - [Nurseries in Bristol](https://toddlekids.com/location/bristol): 29 nurseries

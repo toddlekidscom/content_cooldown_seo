@@ -5,9 +5,10 @@
 <link rel="self" type="application/atom+xml" href="https://toddlekids.com/feeds/updates.xml"/>
 <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <link rel="alternate" type="text/html" href="https://toddlekids.com/"/>
-<updated>2026-10-27T21:50:40+00:00</updated>
+<updated>2026-10-28T01:47:11+00:00</updated>
 <author><name>Toddle</name></author>
-<entry><title>Testing one</title><link href="https://toddlekids.com/nursery/testing-one"/><id>https://toddlekids.com/nursery/testing-one</id><updated>2026-10-27T21:50:40+00:00</updated><category term="Nursery"/></entry>
+<entry><title>Nurseries in Bedfordshire</title><link href="https://toddlekids.com/location/bedfordshire"/><id>https://toddlekids.com/location/bedfordshire</id><updated>2026-10-28T01:47:11+00:00</updated><category term="Area guide"/></entry>
+<entry><title>Testing one</title><link href="https://toddlekids.com/nursery/testing-one"/><id>https://toddlekids.com/nursery/testing-one</id><updated>2026-10-28T01:47:11+00:00</updated><category term="Nursery"/></entry>
 <entry><title>Nurseries in London, Greater London</title><link href="https://toddlekids.com/location/greater-london/london"/><id>https://toddlekids.com/location/greater-london/london</id><updated>2026-10-24T17:35:27+00:00</updated><category term="Area guide"/></entry>
 <entry><title>Little Rainbows Childcare LTD</title><link href="https://toddlekids.com/nursery/little-rainbows-childcare-ltd"/><id>https://toddlekids.com/nursery/little-rainbows-childcare-ltd</id><updated>2026-10-23T09:18:38+00:00</updated><category term="Nursery"/></entry>
 <entry><title>The Bloom Childcare Group Lexden</title><link href="https://toddlekids.com/nursery/the-bloom-childcare-group-lexden"/><id>https://toddlekids.com/nursery/the-bloom-childcare-group-lexden</id><updated>2026-10-22T20:22:45+00:00</updated><category term="Nursery"/></entry>
@@ -42,7 +43,6 @@
 <entry><title>Nurseries in Bristol</title><link href="https://toddlekids.com/location/bristol"/><id>https://toddlekids.com/location/bristol</id><updated>2026-10-20T21:46:20+00:00</updated><category term="Area guide"/></entry>
 <entry><title>Nurseries in Derbyshire</title><link href="https://toddlekids.com/location/derbyshire"/><id>https://toddlekids.com/location/derbyshire</id><updated>2026-10-20T21:46:13+00:00</updated><category term="Area guide"/></entry>
 <entry><title>Nurseries in Somerset</title><link href="https://toddlekids.com/location/somerset"/><id>https://toddlekids.com/location/somerset</id><updated>2026-10-20T21:46:05+00:00</updated><category term="Area guide"/></entry>
-<entry><title>Nurseries in Bedfordshire</title><link href="https://toddlekids.com/location/bedfordshire"/><id>https://toddlekids.com/location/bedfordshire</id><updated>2026-10-20T21:45:58+00:00</updated><category term="Area guide"/></entry>
 <entry><title>Nurseries in Cambridgeshire</title><link href="https://toddlekids.com/location/cambridgeshire"/><id>https://toddlekids.com/location/cambridgeshire</id><updated>2026-10-20T21:45:03+00:00</updated><category term="Area guide"/></entry>
 <entry><title>Nurseries in Cheshire</title><link href="https://toddlekids.com/location/cheshire"/><id>https://toddlekids.com/location/cheshire</id><updated>2026-10-20T21:44:55+00:00</updated><category term="Area guide"/></entry>
 <entry><title>Nurseries in Buckinghamshire</title><link href="https://toddlekids.com/location/buckinghamshire"/><id>https://toddlekids.com/location/buckinghamshire</id><updated>2026-10-20T21:44:47+00:00</updated><category term="Area guide"/></entry>

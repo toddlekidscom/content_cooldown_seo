@@ -1,18 +1,6 @@
 {
- "updated": "2026-10-28T01:47:11+00:00",
+ "updated": "2026-10-24T17:35:27+00:00",
  "items": [
-  {
-   "path": "/location/bedfordshire",
-   "title": "Nurseries in Bedfordshire",
-   "kind": "Area guide",
-   "updated": "2026-10-28T01:47:11+00:00"
-  },
-  {
-   "path": "/nursery/testing-one",
-   "title": "Testing one",
-   "kind": "Nursery",
-   "updated": "2026-10-28T01:47:11+00:00"
-  },
   {
    "path": "/location/greater-london/london",
    "title": "Nurseries in London, Greater London",
@@ -218,6 +206,12 @@
    "updated": "2026-10-20T21:46:05+00:00"
   },
   {
+   "path": "/location/bedfordshire",
+   "title": "Nurseries in Bedfordshire",
+   "kind": "Area guide",
+   "updated": "2026-10-20T21:45:58+00:00"
+  },
+  {
    "path": "/location/cambridgeshire",
    "title": "Nurseries in Cambridgeshire",
    "kind": "Area guide",
@@ -299,6 +293,12 @@
    "path": "/location/greater-london/ilford",
    "title": "Nurseries in Ilford, Greater London",
    "kind": "Area guide",
+   "updated": "2026-10-20T21:32:30+00:00"
+  },
+  {
+   "path": "/nursery/headstart-montessorians-day-nursery",
+   "title": "Headstart Montessorians Day Nursery",
+   "kind": "Nursery",
    "updated": "2026-10-20T21:32:30+00:00"
   }
  ]

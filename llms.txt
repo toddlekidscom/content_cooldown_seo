@@ -1,6 +1,6 @@
 # Toddle
 
-> Toddle (toddlekids.com) is a free UK nursery finder. Parents search by town, county or postcode to find and compare 1,013 day nurseries, pre-schools and nursery schools across 45 counties in England, then contact a nursery directly. It costs parents nothing.
+> Toddle (toddlekids.com) is a free UK nursery finder. Parents search by town, county or postcode to find and compare 1,014 day nurseries, pre-schools and nursery schools across 45 counties in England, then contact a nursery directly. It costs parents nothing.
 
 Each nursery page shows, where the nursery has provided it:
 - The latest Ofsted rating, with the sub-grades and a link to the full Ofsted report
@@ -23,7 +23,7 @@ Nurseries list on Toddle for free, and every parent enquiry is passed to the nur
 
 ## Nurseries by county
 
-- [Nurseries in Greater London](https://toddlekids.com/location/greater-london): 304 nurseries
+- [Nurseries in Greater London](https://toddlekids.com/location/greater-london): 303 nurseries
 - [Nurseries in Cornwall](https://toddlekids.com/location/cornwall): 50 nurseries
 - [Nurseries in Buckinghamshire](https://toddlekids.com/location/buckinghamshire): 48 nurseries
 - [Nurseries in Berkshire](https://toddlekids.com/location/berkshire): 46 nurseries

@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-24T17:35:27+00:00",
+ "updated": "2026-10-30T20:23:22+00:00",
  "items": [
+  {
+   "path": "/nursery/currents-preschool",
+   "title": "Currents Preschool",
+   "kind": "Nursery",
+   "updated": "2026-10-30T20:23:22+00:00"
+  },
+  {
+   "path": "/nursery/little-willow-nest",
+   "title": "Little Willow Nest",
+   "kind": "Nursery",
+   "updated": "2026-10-30T20:23:16+00:00"
+  },
   {
    "path": "/location/greater-london/london",
    "title": "Nurseries in London, Greater London",
@@ -288,18 +300,6 @@
    "title": "Hayeswick Farnborough",
    "kind": "Nursery",
    "updated": "2026-10-20T21:32:31+00:00"
-  },
-  {
-   "path": "/location/greater-london/ilford",
-   "title": "Nurseries in Ilford, Greater London",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:32:30+00:00"
-  },
-  {
-   "path": "/nursery/headstart-montessorians-day-nursery",
-   "title": "Headstart Montessorians Day Nursery",
-   "kind": "Nursery",
-   "updated": "2026-10-20T21:32:30+00:00"
   }
  ]
 }

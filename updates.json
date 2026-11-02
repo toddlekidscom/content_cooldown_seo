@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-31T22:43:05+00:00",
+ "updated": "2026-11-02T13:23:46+00:00",
  "items": [
+  {
+   "path": "/location/suffolk",
+   "title": "Nurseries in Suffolk",
+   "kind": "Area guide",
+   "updated": "2026-11-02T13:23:46+00:00"
+  },
+  {
+   "path": "/location/suffolk/bury-st-edmunds",
+   "title": "Nurseries in Bury St Edmunds, Suffolk",
+   "kind": "Area guide",
+   "updated": "2026-11-02T13:23:46+00:00"
+  },
+  {
+   "path": "/nursery/little-angels-day-care",
+   "title": "Little Angels Day Care",
+   "kind": "Nursery",
+   "updated": "2026-11-02T13:23:46+00:00"
+  },
+  {
+   "path": "/location/oxfordshire",
+   "title": "Nurseries in Oxfordshire",
+   "kind": "Area guide",
+   "updated": "2026-11-02T11:38:47+00:00"
+  },
+  {
+   "path": "/location/oxfordshire/oxford",
+   "title": "Nurseries in Oxford, Oxfordshire",
+   "kind": "Area guide",
+   "updated": "2026-11-02T11:38:47+00:00"
+  },
+  {
+   "path": "/nursery/three-bears-childcare",
+   "title": "Three Bears Childcare",
+   "kind": "Nursery",
+   "updated": "2026-11-02T11:38:47+00:00"
+  },
   {
    "path": "/nursery/little-nas-nursery",
    "title": "Little Nas Nursery",
@@ -22,12 +58,6 @@
   {
    "path": "/nursery/the-bloom-childcare-group-lexden",
    "title": "The Bloom Childcare Group Lexden",
-   "kind": "Nursery",
-   "updated": "2026-10-31T22:43:05+00:00"
-  },
-  {
-   "path": "/nursery/three-bears-childcare",
-   "title": "Three Bears Childcare",
    "kind": "Nursery",
    "updated": "2026-10-31T22:43:05+00:00"
   },
@@ -270,36 +300,6 @@
    "title": "Foulds Pre-school Ltd",
    "kind": "Nursery",
    "updated": "2026-10-20T21:32:35+00:00"
-  },
-  {
-   "path": "/nursery/nannie-annies-day-care",
-   "title": "Nannie Annies Day Care",
-   "kind": "Nursery",
-   "updated": "2026-10-20T21:32:34+00:00"
-  },
-  {
-   "path": "/location/greater-london/hornchurch",
-   "title": "Nurseries in Hornchurch, Greater London",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:32:32+00:00"
-  },
-  {
-   "path": "/nursery/upminster-little-learners-day-nursery",
-   "title": "Upminster Little Learners Day Nursery",
-   "kind": "Nursery",
-   "updated": "2026-10-20T21:32:32+00:00"
-  },
-  {
-   "path": "/location/greater-london/orpington",
-   "title": "Nurseries in Orpington, Greater London",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:32:31+00:00"
-  },
-  {
-   "path": "/nursery/hayeswick-farnborough",
-   "title": "Hayeswick Farnborough",
-   "kind": "Nursery",
-   "updated": "2026-10-20T21:32:31+00:00"
   }
  ]
 }

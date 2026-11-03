@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-02T21:19:07+00:00",
+ "updated": "2026-11-03T10:03:21+00:00",
  "items": [
+  {
+   "path": "/location/greater-london",
+   "title": "Nurseries in Greater London",
+   "kind": "Area guide",
+   "updated": "2026-11-03T10:03:21+00:00"
+  },
+  {
+   "path": "/location/greater-london/pinner",
+   "title": "Nurseries in Pinner, Greater London",
+   "kind": "Area guide",
+   "updated": "2026-11-03T10:03:21+00:00"
+  },
+  {
+   "path": "/nursery/little-leaders-pinner-green",
+   "title": "Little Leaders Pinner Green",
+   "kind": "Nursery",
+   "updated": "2026-11-03T10:03:21+00:00"
+  },
   {
    "path": "/location/essex",
    "title": "Nurseries in Essex",
@@ -96,12 +114,6 @@
    "title": "The Cottage Private Day Nursery (Mansfield Road)",
    "kind": "Nursery",
    "updated": "2026-10-22T11:25:01+00:00"
-  },
-  {
-   "path": "/location/greater-london",
-   "title": "Nurseries in Greater London",
-   "kind": "Area guide",
-   "updated": "2026-10-21T14:16:47+00:00"
   },
   {
    "path": "/nursery/mara-childrens-nursery-and-work-hub-ltd",
@@ -288,18 +300,6 @@
    "title": "Nurseries in Barnet, Greater London",
    "kind": "Area guide",
    "updated": "2026-10-20T21:32:35+00:00"
-  },
-  {
-   "path": "/nursery/foulds-pre-school-ltd",
-   "title": "Foulds Pre-school Ltd",
-   "kind": "Nursery",
-   "updated": "2026-10-20T21:32:35+00:00"
-  },
-  {
-   "path": "/nursery/nannie-annies-day-care",
-   "title": "Nannie Annies Day Care",
-   "kind": "Nursery",
-   "updated": "2026-10-20T21:32:34+00:00"
   }
  ]
 }

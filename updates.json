@@ -1,11 +1,35 @@
 {
- "updated": "2026-11-02T13:23:46+00:00",
+ "updated": "2026-11-02T21:19:07+00:00",
  "items": [
+  {
+   "path": "/location/essex",
+   "title": "Nurseries in Essex",
+   "kind": "Area guide",
+   "updated": "2026-11-02T21:19:07+00:00"
+  },
+  {
+   "path": "/nursery/the-bloom-childcare-group-lexden",
+   "title": "The Bloom Childcare Group Lexden",
+   "kind": "Nursery",
+   "updated": "2026-11-02T21:19:07+00:00"
+  },
   {
    "path": "/location/suffolk",
    "title": "Nurseries in Suffolk",
    "kind": "Area guide",
-   "updated": "2026-11-02T13:23:46+00:00"
+   "updated": "2026-11-02T21:12:40+00:00"
+  },
+  {
+   "path": "/nursery/the-bloom-childcare-group-grundisburgh",
+   "title": "The Bloom Childcare Group Grundisburgh",
+   "kind": "Nursery",
+   "updated": "2026-11-02T21:12:40+00:00"
+  },
+  {
+   "path": "/nursery/the-bloom-childcare-group-bradfield",
+   "title": "The Bloom Childcare Group Bradfield",
+   "kind": "Nursery",
+   "updated": "2026-11-02T21:11:37+00:00"
   },
   {
    "path": "/location/suffolk/bury-st-edmunds",
@@ -50,18 +74,6 @@
    "updated": "2026-10-31T22:43:05+00:00"
   },
   {
-   "path": "/nursery/the-bloom-childcare-group-bradfield",
-   "title": "The Bloom Childcare Group Bradfield",
-   "kind": "Nursery",
-   "updated": "2026-10-31T22:43:05+00:00"
-  },
-  {
-   "path": "/nursery/the-bloom-childcare-group-lexden",
-   "title": "The Bloom Childcare Group Lexden",
-   "kind": "Nursery",
-   "updated": "2026-10-31T22:43:05+00:00"
-  },
-  {
    "path": "/nursery/currents-preschool",
    "title": "Currents Preschool",
    "kind": "Nursery",
@@ -78,18 +90,6 @@
    "title": "Nurseries in London, Greater London",
    "kind": "Area guide",
    "updated": "2026-10-24T17:35:27+00:00"
-  },
-  {
-   "path": "/nursery/the-bloom-childcare-group-grundisburgh",
-   "title": "The Bloom Childcare Group Grundisburgh",
-   "kind": "Nursery",
-   "updated": "2026-10-22T20:17:58+00:00"
-  },
-  {
-   "path": "/nursery/abc-123-day-nursery-ltd",
-   "title": "ABC 123 Day Nursery Ltd",
-   "kind": "Nursery",
-   "updated": "2026-10-22T11:30:38+00:00"
   },
   {
    "path": "/nursery/the-cottage-private-day-nursery-mansfield-road-2",
@@ -206,12 +206,6 @@
    "updated": "2026-10-20T21:47:52+00:00"
   },
   {
-   "path": "/location/essex",
-   "title": "Nurseries in Essex",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:47:44+00:00"
-  },
-  {
    "path": "/location/hertfordshire",
    "title": "Nurseries in Hertfordshire",
    "kind": "Area guide",
@@ -300,6 +294,12 @@
    "title": "Foulds Pre-school Ltd",
    "kind": "Nursery",
    "updated": "2026-10-20T21:32:35+00:00"
+  },
+  {
+   "path": "/nursery/nannie-annies-day-care",
+   "title": "Nannie Annies Day Care",
+   "kind": "Nursery",
+   "updated": "2026-10-20T21:32:34+00:00"
   }
  ]
 }

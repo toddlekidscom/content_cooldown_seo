@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-<url><loc>https://toddlekids.com/</loc><lastmod>2026-11-02T13:23:46+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/</loc><lastmod>2026-11-02T21:19:07+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/nursery-listing</loc></url>
 <url><loc>https://toddlekids.com/nursery-groups</loc></url>
 <url><loc>https://toddlekids.com/location</loc></url>
@@ -95,7 +95,7 @@
 <url><loc>https://toddlekids.com/location/cheshire/ellesmere-port</loc><lastmod>2026-09-28T21:26:25+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/cambridgeshire/ely</loc><lastmod>2026-10-20T17:00:45+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/greater-london/enfield</loc><lastmod>2026-10-20T16:45:31+00:00</lastmod></url>
-<url><loc>https://toddlekids.com/location/essex</loc><lastmod>2026-10-20T21:47:44+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/location/essex</loc><lastmod>2026-11-02T21:19:07+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/devon/exeter</loc><lastmod>2026-07-22T23:22:09+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/gloucestershire/filton</loc><lastmod>2026-07-22T23:37:24+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/bedfordshire/flitwick</loc><lastmod>2026-09-28T21:05:09+00:00</lastmod></url>
@@ -211,7 +211,7 @@
 <url><loc>https://toddlekids.com/location/northumberland/stocksfield</loc><lastmod>2026-07-22T23:21:32+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/bedfordshire/stotfold</loc><lastmod>2026-09-28T21:12:33+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/suffolk/sudbury</loc><lastmod>2026-07-22T23:21:27+00:00</lastmod></url>
-<url><loc>https://toddlekids.com/location/suffolk</loc><lastmod>2026-11-02T13:23:46+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/location/suffolk</loc><lastmod>2026-11-02T21:12:40+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/surrey</loc><lastmod>2026-10-20T21:46:29+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/west-midlands/sutton-coldfield</loc><lastmod>2026-07-22T23:30:55+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/derbyshire/swadlincote</loc><lastmod>2026-10-20T21:51:14+00:00</lastmod></url>
@@ -1248,10 +1248,9 @@
 <url><loc>https://toddlekids.com/nursery/bright-kids-studley</loc><lastmod>2026-10-20T21:16:02+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/nursery/three-bears-childcare</loc><lastmod>2026-11-02T11:38:47+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/nursery/little-rainbows-childcare-ltd</loc><lastmod>2026-10-31T22:43:05+00:00</lastmod></url>
-<url><loc>https://toddlekids.com/nursery/abc-123-day-nursery-ltd</loc><lastmod>2026-10-22T11:30:38+00:00</lastmod></url>
-<url><loc>https://toddlekids.com/nursery/the-bloom-childcare-group-bradfield</loc><lastmod>2026-10-31T22:43:05+00:00</lastmod></url>
-<url><loc>https://toddlekids.com/nursery/the-bloom-childcare-group-grundisburgh</loc><lastmod>2026-10-22T20:17:58+00:00</lastmod></url>
-<url><loc>https://toddlekids.com/nursery/the-bloom-childcare-group-lexden</loc><lastmod>2026-10-31T22:43:05+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/the-bloom-childcare-group-bradfield</loc><lastmod>2026-11-02T21:11:37+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/the-bloom-childcare-group-grundisburgh</loc><lastmod>2026-11-02T21:12:40+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/the-bloom-childcare-group-lexden</loc><lastmod>2026-11-02T21:19:07+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/nursery/currents-preschool</loc><lastmod>2026-10-30T20:23:22+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/nursery/little-willow-nest</loc><lastmod>2026-10-30T20:23:16+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/nursery-groups/independent</loc></url>

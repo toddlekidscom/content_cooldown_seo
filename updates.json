@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-03T10:03:21+00:00",
+ "updated": "2026-11-04T14:09:46+00:00",
  "items": [
+  {
+   "path": "/location/buckinghamshire",
+   "title": "Nurseries in Buckinghamshire",
+   "kind": "Area guide",
+   "updated": "2026-11-04T14:09:46+00:00"
+  },
+  {
+   "path": "/location/buckinghamshire/buckingham",
+   "title": "Nurseries in Buckingham, Buckinghamshire",
+   "kind": "Area guide",
+   "updated": "2026-11-04T14:09:46+00:00"
+  },
+  {
+   "path": "/nursery/padbury-pre-school",
+   "title": "Padbury Pre-School",
+   "kind": "Nursery",
+   "updated": "2026-11-04T14:09:46+00:00"
+  },
   {
    "path": "/location/greater-london",
    "title": "Nurseries in Greater London",
@@ -272,12 +290,6 @@
    "updated": "2026-10-20T21:44:55+00:00"
   },
   {
-   "path": "/location/buckinghamshire",
-   "title": "Nurseries in Buckinghamshire",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:44:47+00:00"
-  },
-  {
    "path": "/location/berkshire",
    "title": "Nurseries in Berkshire",
    "kind": "Area guide",
@@ -288,18 +300,6 @@
    "title": "Nurseries in Cornwall",
    "kind": "Area guide",
    "updated": "2026-10-20T21:44:32+00:00"
-  },
-  {
-   "path": "/nursery/west-street-neighbourhood-nursery",
-   "title": "West Street Neighbourhood Nursery",
-   "kind": "Nursery",
-   "updated": "2026-10-20T21:39:42+00:00"
-  },
-  {
-   "path": "/location/greater-london/barnet",
-   "title": "Nurseries in Barnet, Greater London",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:32:35+00:00"
   }
  ]
 }

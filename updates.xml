@@ -5,11 +5,13 @@
 <link rel="self" type="application/atom+xml" href="https://toddlekids.com/feeds/updates.xml"/>
 <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <link rel="alternate" type="text/html" href="https://toddlekids.com/"/>
-<updated>2026-11-04T20:01:58+00:00</updated>
+<updated>2026-11-05T14:33:09+00:00</updated>
 <author><name>Toddle</name></author>
+<entry><title>Nurseries in Buckinghamshire</title><link href="https://toddlekids.com/location/buckinghamshire"/><id>https://toddlekids.com/location/buckinghamshire</id><updated>2026-11-05T14:33:09+00:00</updated><category term="Area guide"/></entry>
+<entry><title>Nurseries in High Wycombe, Buckinghamshire</title><link href="https://toddlekids.com/location/buckinghamshire/high-wycombe"/><id>https://toddlekids.com/location/buckinghamshire/high-wycombe</id><updated>2026-11-05T14:33:09+00:00</updated><category term="Area guide"/></entry>
+<entry><title>Hazlemere Preschool Limited T/a Little Cherubs Hazlemere</title><link href="https://toddlekids.com/nursery/hazlemere-preschool-limited-t-a-little-cherubs-hazlemere"/><id>https://toddlekids.com/nursery/hazlemere-preschool-limited-t-a-little-cherubs-hazlemere</id><updated>2026-11-05T14:33:09+00:00</updated><category term="Nursery"/></entry>
 <entry><title>Nurseries in Essex</title><link href="https://toddlekids.com/location/essex"/><id>https://toddlekids.com/location/essex</id><updated>2026-11-04T20:01:58+00:00</updated><category term="Area guide"/></entry>
 <entry><title>The Bloom Childcare Group Lexden</title><link href="https://toddlekids.com/nursery/the-bloom-childcare-group-lexden"/><id>https://toddlekids.com/nursery/the-bloom-childcare-group-lexden</id><updated>2026-11-04T20:01:58+00:00</updated><category term="Nursery"/></entry>
-<entry><title>Nurseries in Buckinghamshire</title><link href="https://toddlekids.com/location/buckinghamshire"/><id>https://toddlekids.com/location/buckinghamshire</id><updated>2026-11-04T20:00:28+00:00</updated><category term="Area guide"/></entry>
 <entry><title>Nurseries in Buckingham, Buckinghamshire</title><link href="https://toddlekids.com/location/buckinghamshire/buckingham"/><id>https://toddlekids.com/location/buckinghamshire/buckingham</id><updated>2026-11-04T20:00:28+00:00</updated><category term="Area guide"/></entry>
 <entry><title>Padbury Pre-School</title><link href="https://toddlekids.com/nursery/padbury-pre-school"/><id>https://toddlekids.com/nursery/padbury-pre-school</id><updated>2026-11-04T20:00:28+00:00</updated><category term="Nursery"/></entry>
 <entry><title>Nurseries in Greater London</title><link href="https://toddlekids.com/location/greater-london"/><id>https://toddlekids.com/location/greater-london</id><updated>2026-11-03T10:03:21+00:00</updated><category term="Area guide"/></entry>
@@ -55,6 +57,4 @@
 <entry><title>Nurseries in Bedfordshire</title><link href="https://toddlekids.com/location/bedfordshire"/><id>https://toddlekids.com/location/bedfordshire</id><updated>2026-10-20T21:45:58+00:00</updated><category term="Area guide"/></entry>
 <entry><title>Nurseries in Cambridgeshire</title><link href="https://toddlekids.com/location/cambridgeshire"/><id>https://toddlekids.com/location/cambridgeshire</id><updated>2026-10-20T21:45:03+00:00</updated><category term="Area guide"/></entry>
 <entry><title>Nurseries in Cheshire</title><link href="https://toddlekids.com/location/cheshire"/><id>https://toddlekids.com/location/cheshire</id><updated>2026-10-20T21:44:55+00:00</updated><category term="Area guide"/></entry>
-<entry><title>Nurseries in Berkshire</title><link href="https://toddlekids.com/location/berkshire"/><id>https://toddlekids.com/location/berkshire</id><updated>2026-10-20T21:44:40+00:00</updated><category term="Area guide"/></entry>
-<entry><title>Nurseries in Cornwall</title><link href="https://toddlekids.com/location/cornwall"/><id>https://toddlekids.com/location/cornwall</id><updated>2026-10-20T21:44:32+00:00</updated><category term="Area guide"/></entry>
 </feed>

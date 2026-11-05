@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-04T20:01:58+00:00",
+ "updated": "2026-11-05T14:33:09+00:00",
  "items": [
+  {
+   "path": "/location/buckinghamshire",
+   "title": "Nurseries in Buckinghamshire",
+   "kind": "Area guide",
+   "updated": "2026-11-05T14:33:09+00:00"
+  },
+  {
+   "path": "/location/buckinghamshire/high-wycombe",
+   "title": "Nurseries in High Wycombe, Buckinghamshire",
+   "kind": "Area guide",
+   "updated": "2026-11-05T14:33:09+00:00"
+  },
+  {
+   "path": "/nursery/hazlemere-preschool-limited-t-a-little-cherubs-hazlemere",
+   "title": "Hazlemere Preschool Limited T/a Little Cherubs Hazlemere",
+   "kind": "Nursery",
+   "updated": "2026-11-05T14:33:09+00:00"
+  },
   {
    "path": "/location/essex",
    "title": "Nurseries in Essex",
@@ -12,12 +30,6 @@
    "title": "The Bloom Childcare Group Lexden",
    "kind": "Nursery",
    "updated": "2026-11-04T20:01:58+00:00"
-  },
-  {
-   "path": "/location/buckinghamshire",
-   "title": "Nurseries in Buckinghamshire",
-   "kind": "Area guide",
-   "updated": "2026-11-04T20:00:28+00:00"
   },
   {
    "path": "/location/buckinghamshire/buckingham",
@@ -288,18 +300,6 @@
    "title": "Nurseries in Cheshire",
    "kind": "Area guide",
    "updated": "2026-10-20T21:44:55+00:00"
-  },
-  {
-   "path": "/location/berkshire",
-   "title": "Nurseries in Berkshire",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:44:40+00:00"
-  },
-  {
-   "path": "/location/cornwall",
-   "title": "Nurseries in Cornwall",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:44:32+00:00"
   }
  ]
 }

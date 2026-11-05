@@ -1,23 +1,35 @@
 {
- "updated": "2026-11-04T14:09:46+00:00",
+ "updated": "2026-11-04T20:01:58+00:00",
  "items": [
+  {
+   "path": "/location/essex",
+   "title": "Nurseries in Essex",
+   "kind": "Area guide",
+   "updated": "2026-11-04T20:01:58+00:00"
+  },
+  {
+   "path": "/nursery/the-bloom-childcare-group-lexden",
+   "title": "The Bloom Childcare Group Lexden",
+   "kind": "Nursery",
+   "updated": "2026-11-04T20:01:58+00:00"
+  },
   {
    "path": "/location/buckinghamshire",
    "title": "Nurseries in Buckinghamshire",
    "kind": "Area guide",
-   "updated": "2026-11-04T14:09:46+00:00"
+   "updated": "2026-11-04T20:00:28+00:00"
   },
   {
    "path": "/location/buckinghamshire/buckingham",
    "title": "Nurseries in Buckingham, Buckinghamshire",
    "kind": "Area guide",
-   "updated": "2026-11-04T14:09:46+00:00"
+   "updated": "2026-11-04T20:00:28+00:00"
   },
   {
    "path": "/nursery/padbury-pre-school",
    "title": "Padbury Pre-School",
    "kind": "Nursery",
-   "updated": "2026-11-04T14:09:46+00:00"
+   "updated": "2026-11-04T20:00:28+00:00"
   },
   {
    "path": "/location/greater-london",
@@ -36,18 +48,6 @@
    "title": "Little Leaders Pinner Green",
    "kind": "Nursery",
    "updated": "2026-11-03T10:03:21+00:00"
-  },
-  {
-   "path": "/location/essex",
-   "title": "Nurseries in Essex",
-   "kind": "Area guide",
-   "updated": "2026-11-02T21:19:07+00:00"
-  },
-  {
-   "path": "/nursery/the-bloom-childcare-group-lexden",
-   "title": "The Bloom Childcare Group Lexden",
-   "kind": "Nursery",
-   "updated": "2026-11-02T21:19:07+00:00"
   },
   {
    "path": "/location/suffolk",

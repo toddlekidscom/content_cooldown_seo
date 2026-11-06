@@ -1,6 +1,102 @@
 {
- "updated": "2026-11-05T20:35:23+00:00",
+ "updated": "2026-11-06T15:33:24+00:00",
  "items": [
+  {
+   "path": "/location/leicestershire",
+   "title": "Nurseries in Leicestershire",
+   "kind": "Area guide",
+   "updated": "2026-11-06T15:33:24+00:00"
+  },
+  {
+   "path": "/location/leicestershire/leicester",
+   "title": "Nurseries in Leicester, Leicestershire",
+   "kind": "Area guide",
+   "updated": "2026-11-06T15:33:24+00:00"
+  },
+  {
+   "path": "/nursery/hash-test",
+   "title": "Hash Test",
+   "kind": "Nursery",
+   "updated": "2026-11-06T15:33:24+00:00"
+  },
+  {
+   "path": "/location/somerset",
+   "title": "Nurseries in Somerset",
+   "kind": "Area guide",
+   "updated": "2026-11-06T12:45:46+00:00"
+  },
+  {
+   "path": "/location/somerset/yeovil",
+   "title": "Nurseries in Yeovil, Somerset",
+   "kind": "Area guide",
+   "updated": "2026-11-06T12:45:46+00:00"
+  },
+  {
+   "path": "/nursery/tops-yeovil",
+   "title": "Tops Day Nurseries: Yeovil Nursery",
+   "kind": "Nursery",
+   "updated": "2026-11-06T12:45:46+00:00"
+  },
+  {
+   "path": "/location/nottinghamshire",
+   "title": "Nurseries in Nottinghamshire",
+   "kind": "Area guide",
+   "updated": "2026-11-06T11:14:17+00:00"
+  },
+  {
+   "path": "/location/nottinghamshire/nottingham",
+   "title": "Nurseries in Nottingham, Nottinghamshire",
+   "kind": "Area guide",
+   "updated": "2026-11-06T11:14:17+00:00"
+  },
+  {
+   "path": "/nursery/little-toes-day-nursery-clifton",
+   "title": "Little Toes Day Nursery Clifton",
+   "kind": "Nursery",
+   "updated": "2026-11-06T11:14:17+00:00"
+  },
+  {
+   "path": "/location/dorset",
+   "title": "Nurseries in Dorset",
+   "kind": "Area guide",
+   "updated": "2026-11-06T10:19:56+00:00"
+  },
+  {
+   "path": "/location/dorset/bournemouth",
+   "title": "Nurseries in Bournemouth, Dorset",
+   "kind": "Area guide",
+   "updated": "2026-11-06T10:19:56+00:00"
+  },
+  {
+   "path": "/nursery/tops-day-nurseries",
+   "title": "Tops Day Nurseries: Bournemouth Nursery",
+   "kind": "Nursery",
+   "updated": "2026-11-06T10:19:56+00:00"
+  },
+  {
+   "path": "/location/hampshire",
+   "title": "Nurseries in Hampshire",
+   "kind": "Area guide",
+   "updated": "2026-11-06T10:19:55+00:00"
+  },
+  {
+   "path": "/location/hampshire/aldershot",
+   "title": "Nurseries in Aldershot, Hampshire",
+   "kind": "Area guide",
+   "updated": "2026-11-06T10:19:55+00:00"
+  },
+  {
+   "path": "/nursery/tops-day-nurseries-copnor",
+   "title": "Tops Day Nurseries: Copnor Nursery",
+   "kind": "Nursery",
+   "updated": "2026-11-06T10:19:55+00:00"
+  },
+  {
+   "path": "/nursery/tops-day-nurseries-wareham-nursery",
+   "title": "Tops Day Nurseries: Wareham Nursery",
+   "kind": "Nursery",
+   "updated": "2026-11-06T10:19:54+00:00"
+  },
   {
    "path": "/location/bedfordshire",
    "title": "Nurseries in Bedfordshire",
@@ -204,102 +300,6 @@
    "title": "Nurseries in Tyne and Wear",
    "kind": "Area guide",
    "updated": "2026-10-20T21:51:07+00:00"
-  },
-  {
-   "path": "/location/cumbria",
-   "title": "Nurseries in Cumbria",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:50:59+00:00"
-  },
-  {
-   "path": "/location/cornwall/helston",
-   "title": "Nurseries in Helston, Cornwall",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:50:52+00:00"
-  },
-  {
-   "path": "/location/shropshire",
-   "title": "Nurseries in Shropshire",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:50:44+00:00"
-  },
-  {
-   "path": "/location/warwickshire",
-   "title": "Nurseries in Warwickshire",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:49:48+00:00"
-  },
-  {
-   "path": "/location/durham",
-   "title": "Nurseries in Durham",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:49:41+00:00"
-  },
-  {
-   "path": "/location/lincolnshire",
-   "title": "Nurseries in Lincolnshire",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:49:33+00:00"
-  },
-  {
-   "path": "/location/leicestershire",
-   "title": "Nurseries in Leicestershire",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:49:26+00:00"
-  },
-  {
-   "path": "/location/gloucestershire",
-   "title": "Nurseries in Gloucestershire",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:49:19+00:00"
-  },
-  {
-   "path": "/location/berkshire/thatcham",
-   "title": "Nurseries in Thatcham, Berkshire",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:49:11+00:00"
-  },
-  {
-   "path": "/location/cambridgeshire/huntingdon",
-   "title": "Nurseries in Huntingdon, Cambridgeshire",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:48:16+00:00"
-  },
-  {
-   "path": "/location/nottinghamshire",
-   "title": "Nurseries in Nottinghamshire",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:48:08+00:00"
-  },
-  {
-   "path": "/location/kent",
-   "title": "Nurseries in Kent",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:47:59+00:00"
-  },
-  {
-   "path": "/location/northamptonshire",
-   "title": "Nurseries in Northamptonshire",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:47:52+00:00"
-  },
-  {
-   "path": "/location/hertfordshire",
-   "title": "Nurseries in Hertfordshire",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:47:37+00:00"
-  },
-  {
-   "path": "/location/berkshire/slough",
-   "title": "Nurseries in Slough, Berkshire",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:46:42+00:00"
-  },
-  {
-   "path": "/location/surrey",
-   "title": "Nurseries in Surrey",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:46:29+00:00"
   }
  ]
 }

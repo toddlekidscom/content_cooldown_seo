@@ -1,11 +1,47 @@
 {
- "updated": "2026-11-05T14:33:09+00:00",
+ "updated": "2026-11-05T20:35:23+00:00",
  "items": [
+  {
+   "path": "/location/bedfordshire",
+   "title": "Nurseries in Bedfordshire",
+   "kind": "Area guide",
+   "updated": "2026-11-05T20:35:23+00:00"
+  },
+  {
+   "path": "/location/bedfordshire/stotfold",
+   "title": "Nurseries in Stotfold, Bedfordshire",
+   "kind": "Area guide",
+   "updated": "2026-11-05T20:35:23+00:00"
+  },
+  {
+   "path": "/nursery/poppyfields-nursery",
+   "title": "Poppyfields Nursery",
+   "kind": "Nursery",
+   "updated": "2026-11-05T20:35:23+00:00"
+  },
+  {
+   "path": "/nursery/poppies-nursery",
+   "title": "Poppies Nursery",
+   "kind": "Nursery",
+   "updated": "2026-11-05T20:35:13+00:00"
+  },
   {
    "path": "/location/buckinghamshire",
    "title": "Nurseries in Buckinghamshire",
    "kind": "Area guide",
-   "updated": "2026-11-05T14:33:09+00:00"
+   "updated": "2026-11-05T20:35:03+00:00"
+  },
+  {
+   "path": "/location/buckinghamshire/beaconsfield",
+   "title": "Nurseries in Beaconsfield, Buckinghamshire",
+   "kind": "Area guide",
+   "updated": "2026-11-05T20:35:03+00:00"
+  },
+  {
+   "path": "/nursery/poppies-beaconsfield",
+   "title": "Poppies Beaconsfield",
+   "kind": "Nursery",
+   "updated": "2026-11-05T20:35:03+00:00"
   },
   {
    "path": "/location/buckinghamshire/high-wycombe",
@@ -264,42 +300,6 @@
    "title": "Nurseries in Surrey",
    "kind": "Area guide",
    "updated": "2026-10-20T21:46:29+00:00"
-  },
-  {
-   "path": "/location/bristol",
-   "title": "Nurseries in Bristol",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:46:20+00:00"
-  },
-  {
-   "path": "/location/derbyshire",
-   "title": "Nurseries in Derbyshire",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:46:13+00:00"
-  },
-  {
-   "path": "/location/somerset",
-   "title": "Nurseries in Somerset",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:46:05+00:00"
-  },
-  {
-   "path": "/location/bedfordshire",
-   "title": "Nurseries in Bedfordshire",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:45:58+00:00"
-  },
-  {
-   "path": "/location/cambridgeshire",
-   "title": "Nurseries in Cambridgeshire",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:45:03+00:00"
-  },
-  {
-   "path": "/location/cheshire",
-   "title": "Nurseries in Cheshire",
-   "kind": "Area guide",
-   "updated": "2026-10-20T21:44:55+00:00"
   }
  ]
 }

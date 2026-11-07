@@ -32,24 +32,6 @@
    "updated": "2026-11-06T20:27:25+00:00"
   },
   {
-   "path": "/location/leicestershire",
-   "title": "Nurseries in Leicestershire",
-   "kind": "Area guide",
-   "updated": "2026-11-06T15:33:24+00:00"
-  },
-  {
-   "path": "/location/leicestershire/leicester",
-   "title": "Nurseries in Leicester, Leicestershire",
-   "kind": "Area guide",
-   "updated": "2026-11-06T15:33:24+00:00"
-  },
-  {
-   "path": "/nursery/hash-test",
-   "title": "Hash Test",
-   "kind": "Nursery",
-   "updated": "2026-11-06T15:33:24+00:00"
-  },
-  {
    "path": "/location/somerset",
    "title": "Nurseries in Somerset",
    "kind": "Area guide",
@@ -300,6 +282,24 @@
    "title": "Nurseries in Tyne and Wear",
    "kind": "Area guide",
    "updated": "2026-10-20T21:51:07+00:00"
+  },
+  {
+   "path": "/location/cumbria",
+   "title": "Nurseries in Cumbria",
+   "kind": "Area guide",
+   "updated": "2026-10-20T21:50:59+00:00"
+  },
+  {
+   "path": "/location/cornwall/helston",
+   "title": "Nurseries in Helston, Cornwall",
+   "kind": "Area guide",
+   "updated": "2026-10-20T21:50:52+00:00"
+  },
+  {
+   "path": "/location/shropshire",
+   "title": "Nurseries in Shropshire",
+   "kind": "Area guide",
+   "updated": "2026-10-20T21:50:44+00:00"
   }
  ]
 }

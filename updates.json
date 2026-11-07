@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-06T15:33:24+00:00",
+ "updated": "2026-11-06T20:47:20+00:00",
  "items": [
+  {
+   "path": "/location/essex",
+   "title": "Nurseries in Essex",
+   "kind": "Area guide",
+   "updated": "2026-11-06T20:47:20+00:00"
+  },
+  {
+   "path": "/nursery/the-bloom-childcare-group-bradfield",
+   "title": "The Bloom Childcare Group Bradfield",
+   "kind": "Nursery",
+   "updated": "2026-11-06T20:47:20+00:00"
+  },
+  {
+   "path": "/location/suffolk",
+   "title": "Nurseries in Suffolk",
+   "kind": "Area guide",
+   "updated": "2026-11-06T20:31:59+00:00"
+  },
+  {
+   "path": "/nursery/the-bloom-childcare-group-grundisburgh",
+   "title": "The Bloom Childcare Group Grundisburgh",
+   "kind": "Nursery",
+   "updated": "2026-11-06T20:31:59+00:00"
+  },
+  {
+   "path": "/nursery/the-bloom-childcare-group-lexden",
+   "title": "The Bloom Childcare Group Lexden",
+   "kind": "Nursery",
+   "updated": "2026-11-06T20:27:25+00:00"
+  },
   {
    "path": "/location/leicestershire",
    "title": "Nurseries in Leicestershire",
@@ -152,18 +182,6 @@
    "updated": "2026-11-05T14:33:09+00:00"
   },
   {
-   "path": "/location/essex",
-   "title": "Nurseries in Essex",
-   "kind": "Area guide",
-   "updated": "2026-11-04T20:01:58+00:00"
-  },
-  {
-   "path": "/nursery/the-bloom-childcare-group-lexden",
-   "title": "The Bloom Childcare Group Lexden",
-   "kind": "Nursery",
-   "updated": "2026-11-04T20:01:58+00:00"
-  },
-  {
    "path": "/location/buckinghamshire/buckingham",
    "title": "Nurseries in Buckingham, Buckinghamshire",
    "kind": "Area guide",
@@ -192,24 +210,6 @@
    "title": "Little Leaders Pinner Green",
    "kind": "Nursery",
    "updated": "2026-11-03T10:03:21+00:00"
-  },
-  {
-   "path": "/location/suffolk",
-   "title": "Nurseries in Suffolk",
-   "kind": "Area guide",
-   "updated": "2026-11-02T21:12:40+00:00"
-  },
-  {
-   "path": "/nursery/the-bloom-childcare-group-grundisburgh",
-   "title": "The Bloom Childcare Group Grundisburgh",
-   "kind": "Nursery",
-   "updated": "2026-11-02T21:12:40+00:00"
-  },
-  {
-   "path": "/nursery/the-bloom-childcare-group-bradfield",
-   "title": "The Bloom Childcare Group Bradfield",
-   "kind": "Nursery",
-   "updated": "2026-11-02T21:11:37+00:00"
   },
   {
    "path": "/location/suffolk/bury-st-edmunds",

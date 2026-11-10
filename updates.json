@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-09T20:57:15+00:00",
+ "updated": "2026-11-10T12:56:43+00:00",
  "items": [
+  {
+   "path": "/location/dorset",
+   "title": "Nurseries in Dorset",
+   "kind": "Area guide",
+   "updated": "2026-11-10T12:56:43+00:00"
+  },
+  {
+   "path": "/location/dorset/bournemouth",
+   "title": "Nurseries in Bournemouth, Dorset",
+   "kind": "Area guide",
+   "updated": "2026-11-10T12:56:43+00:00"
+  },
+  {
+   "path": "/nursery/tops-day-nurseries-bearwood-nursery",
+   "title": "Tops Day Nurseries: Bearwood Nursery",
+   "kind": "Nursery",
+   "updated": "2026-11-10T12:56:43+00:00"
+  },
   {
    "path": "/location/essex",
    "title": "Nurseries in Essex",
@@ -14,18 +32,6 @@
    "updated": "2026-11-09T20:57:15+00:00"
   },
   {
-   "path": "/location/dorset",
-   "title": "Nurseries in Dorset",
-   "kind": "Area guide",
-   "updated": "2026-11-09T19:21:13+00:00"
-  },
-  {
-   "path": "/location/dorset/bournemouth",
-   "title": "Nurseries in Bournemouth, Dorset",
-   "kind": "Area guide",
-   "updated": "2026-11-09T19:21:13+00:00"
-  },
-  {
    "path": "/location/hampshire",
    "title": "Nurseries in Hampshire",
    "kind": "Area guide",
@@ -35,12 +41,6 @@
    "path": "/location/hampshire/southampton",
    "title": "Nurseries in Southampton, Hampshire",
    "kind": "Area guide",
-   "updated": "2026-11-09T19:21:13+00:00"
-  },
-  {
-   "path": "/nursery/tops-day-nurseries-bearwood-nursery",
-   "title": "Tops Day Nurseries: Bearwood Nursery",
-   "kind": "Nursery",
    "updated": "2026-11-09T19:21:13+00:00"
   },
   {

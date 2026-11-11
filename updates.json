@@ -1,17 +1,71 @@
 {
- "updated": "2026-11-10T12:56:43+00:00",
+ "updated": "2026-11-10T21:18:10+00:00",
  "items": [
+  {
+   "path": "/location/hampshire",
+   "title": "Nurseries in Hampshire",
+   "kind": "Area guide",
+   "updated": "2026-11-10T21:18:10+00:00"
+  },
+  {
+   "path": "/nursery/tops-day-nurseries-lymington-nursery",
+   "title": "Tops Day Nurseries: Lymington Nursery",
+   "kind": "Nursery",
+   "updated": "2026-11-10T21:18:10+00:00"
+  },
+  {
+   "path": "/nursery/tops-day-nurseries-portsmouth-nursery",
+   "title": "Tops Day Nurseries: Portsmouth Nursery",
+   "kind": "Nursery",
+   "updated": "2026-11-10T21:17:43+00:00"
+  },
+  {
+   "path": "/nursery/tops-day-nurseries-southsea-nursery",
+   "title": "Tops Day Nurseries: Southsea Nursery",
+   "kind": "Nursery",
+   "updated": "2026-11-10T21:13:12+00:00"
+  },
   {
    "path": "/location/dorset",
    "title": "Nurseries in Dorset",
    "kind": "Area guide",
-   "updated": "2026-11-10T12:56:43+00:00"
+   "updated": "2026-11-10T20:51:45+00:00"
+  },
+  {
+   "path": "/nursery/tops-day-nurseries-corfe-mullen-nursery",
+   "title": "Tops Day Nurseries: Corfe Mullen Nursery",
+   "kind": "Nursery",
+   "updated": "2026-11-10T20:51:45+00:00"
+  },
+  {
+   "path": "/nursery/tops-day-nurseries-gillingham",
+   "title": "Tops Day Nurseries: Gillingham",
+   "kind": "Nursery",
+   "updated": "2026-11-10T20:50:44+00:00"
   },
   {
    "path": "/location/dorset/bournemouth",
    "title": "Nurseries in Bournemouth, Dorset",
    "kind": "Area guide",
-   "updated": "2026-11-10T12:56:43+00:00"
+   "updated": "2026-11-10T20:49:06+00:00"
+  },
+  {
+   "path": "/nursery/tops-day-nurseries-pokesdown-nursery",
+   "title": "Tops Day Nurseries: Pokesdown Nursery",
+   "kind": "Nursery",
+   "updated": "2026-11-10T20:49:06+00:00"
+  },
+  {
+   "path": "/location/dorset/poole",
+   "title": "Nurseries in Poole, Dorset",
+   "kind": "Area guide",
+   "updated": "2026-11-10T20:47:27+00:00"
+  },
+  {
+   "path": "/nursery/tops-day-nurseries-poole-nursery",
+   "title": "Tops Day Nurseries: Poole Nursery",
+   "kind": "Nursery",
+   "updated": "2026-11-10T20:47:27+00:00"
   },
   {
    "path": "/nursery/tops-day-nurseries-bearwood-nursery",
@@ -30,12 +84,6 @@
    "title": "The Bloom Childcare Group Bradfield",
    "kind": "Nursery",
    "updated": "2026-11-09T20:57:15+00:00"
-  },
-  {
-   "path": "/location/hampshire",
-   "title": "Nurseries in Hampshire",
-   "kind": "Area guide",
-   "updated": "2026-11-09T19:21:13+00:00"
   },
   {
    "path": "/location/hampshire/southampton",
@@ -252,54 +300,6 @@
    "title": "Poppies Beaconsfield",
    "kind": "Nursery",
    "updated": "2026-11-05T20:35:03+00:00"
-  },
-  {
-   "path": "/location/buckinghamshire/high-wycombe",
-   "title": "Nurseries in High Wycombe, Buckinghamshire",
-   "kind": "Area guide",
-   "updated": "2026-11-05T14:33:09+00:00"
-  },
-  {
-   "path": "/nursery/hazlemere-preschool-limited-t-a-little-cherubs-hazlemere",
-   "title": "Hazlemere Preschool Limited T/a Little Cherubs Hazlemere",
-   "kind": "Nursery",
-   "updated": "2026-11-05T14:33:09+00:00"
-  },
-  {
-   "path": "/location/buckinghamshire/buckingham",
-   "title": "Nurseries in Buckingham, Buckinghamshire",
-   "kind": "Area guide",
-   "updated": "2026-11-04T20:00:28+00:00"
-  },
-  {
-   "path": "/nursery/padbury-pre-school",
-   "title": "Padbury Pre-School",
-   "kind": "Nursery",
-   "updated": "2026-11-04T20:00:28+00:00"
-  },
-  {
-   "path": "/location/greater-london/pinner",
-   "title": "Nurseries in Pinner, Greater London",
-   "kind": "Area guide",
-   "updated": "2026-11-03T10:03:21+00:00"
-  },
-  {
-   "path": "/nursery/little-leaders-pinner-green",
-   "title": "Little Leaders Pinner Green",
-   "kind": "Nursery",
-   "updated": "2026-11-03T10:03:21+00:00"
-  },
-  {
-   "path": "/location/suffolk/bury-st-edmunds",
-   "title": "Nurseries in Bury St Edmunds, Suffolk",
-   "kind": "Area guide",
-   "updated": "2026-11-02T13:23:46+00:00"
-  },
-  {
-   "path": "/nursery/little-angels-day-care",
-   "title": "Little Angels Day Care",
-   "kind": "Nursery",
-   "updated": "2026-11-02T13:23:46+00:00"
   }
  ]
 }

@@ -1,11 +1,23 @@
 {
- "updated": "2026-11-11T12:54:50+00:00",
+ "updated": "2026-11-12T04:04:44+00:00",
  "items": [
   {
    "path": "/location/greater-london",
    "title": "Nurseries in Greater London",
    "kind": "Area guide",
-   "updated": "2026-11-11T12:54:50+00:00"
+   "updated": "2026-11-12T04:04:44+00:00"
+  },
+  {
+   "path": "/location/surrey",
+   "title": "Nurseries in Surrey",
+   "kind": "Area guide",
+   "updated": "2026-11-12T04:04:44+00:00"
+  },
+  {
+   "path": "/nursery/childs-play-nursery-school-ltd",
+   "title": "Childs Play Nursery School Ltd",
+   "kind": "Nursery",
+   "updated": "2026-11-12T04:04:44+00:00"
   },
   {
    "path": "/nursery/alperton-montessori",
@@ -287,18 +299,6 @@
    "path": "/location/bedfordshire",
    "title": "Nurseries in Bedfordshire",
    "kind": "Area guide",
-   "updated": "2026-11-05T20:35:23+00:00"
-  },
-  {
-   "path": "/location/bedfordshire/stotfold",
-   "title": "Nurseries in Stotfold, Bedfordshire",
-   "kind": "Area guide",
-   "updated": "2026-11-05T20:35:23+00:00"
-  },
-  {
-   "path": "/nursery/poppyfields-nursery",
-   "title": "Poppyfields Nursery",
-   "kind": "Nursery",
    "updated": "2026-11-05T20:35:23+00:00"
   }
  ]

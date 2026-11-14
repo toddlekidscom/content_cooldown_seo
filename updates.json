@@ -1,11 +1,23 @@
 {
- "updated": "2026-11-12T04:04:44+00:00",
+ "updated": "2026-11-14T08:56:23+00:00",
  "items": [
   {
    "path": "/location/greater-london",
    "title": "Nurseries in Greater London",
    "kind": "Area guide",
-   "updated": "2026-11-12T04:04:44+00:00"
+   "updated": "2026-11-14T08:56:23+00:00"
+  },
+  {
+   "path": "/location/greater-london/london",
+   "title": "Nurseries in London, Greater London",
+   "kind": "Area guide",
+   "updated": "2026-11-14T08:56:23+00:00"
+  },
+  {
+   "path": "/nursery/marylebone-village-nursery",
+   "title": "Marylebone Village Nursery",
+   "kind": "Nursery",
+   "updated": "2026-11-14T08:56:23+00:00"
   },
   {
    "path": "/location/surrey",
@@ -144,12 +156,6 @@
    "title": "Tops Day Nurseries: Lakeside Nursery",
    "kind": "Nursery",
    "updated": "2026-11-09T19:21:12+00:00"
-  },
-  {
-   "path": "/location/greater-london/london",
-   "title": "Nurseries in London, Greater London",
-   "kind": "Area guide",
-   "updated": "2026-11-09T17:34:03+00:00"
   },
   {
    "path": "/nursery/nursery-on-the-green-2",
@@ -294,12 +300,6 @@
    "title": "Tops Day Nurseries: Wareham Nursery",
    "kind": "Nursery",
    "updated": "2026-11-06T10:19:54+00:00"
-  },
-  {
-   "path": "/location/bedfordshire",
-   "title": "Nurseries in Bedfordshire",
-   "kind": "Area guide",
-   "updated": "2026-11-05T20:35:23+00:00"
   }
  ]
 }

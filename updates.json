@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-15T19:25:40+00:00",
+ "updated": "2026-11-16T18:19:23+00:00",
  "items": [
+  {
+   "path": "/location/derbyshire",
+   "title": "Nurseries in Derbyshire",
+   "kind": "Area guide",
+   "updated": "2026-11-16T18:19:23+00:00"
+  },
+  {
+   "path": "/location/derbyshire/derby",
+   "title": "Nurseries in Derby, Derbyshire",
+   "kind": "Area guide",
+   "updated": "2026-11-16T18:19:23+00:00"
+  },
+  {
+   "path": "/nursery/little-woodlands-childrens-day-nursery",
+   "title": "Little Woodlands Children’s Day Nursery",
+   "kind": "Nursery",
+   "updated": "2026-11-16T18:19:23+00:00"
+  },
+  {
+   "path": "/location/buckinghamshire",
+   "title": "Nurseries in Buckinghamshire",
+   "kind": "Area guide",
+   "updated": "2026-11-16T14:21:08+00:00"
+  },
+  {
+   "path": "/location/buckinghamshire/high-wycombe",
+   "title": "Nurseries in High Wycombe, Buckinghamshire",
+   "kind": "Area guide",
+   "updated": "2026-11-16T14:21:08+00:00"
+  },
+  {
+   "path": "/nursery/apollo-day-nursery",
+   "title": "Apollo Day Nursery",
+   "kind": "Nursery",
+   "updated": "2026-11-16T14:21:08+00:00"
+  },
+  {
+   "path": "/location/herefordshire",
+   "title": "Nurseries in Herefordshire",
+   "kind": "Area guide",
+   "updated": "2026-11-16T08:16:21+00:00"
+  },
+  {
+   "path": "/location/herefordshire/hereford",
+   "title": "Nurseries in Hereford, Herefordshire",
+   "kind": "Area guide",
+   "updated": "2026-11-16T08:16:21+00:00"
+  },
+  {
+   "path": "/nursery/wildhearts-outdoor",
+   "title": "Wildhearts Outdoor",
+   "kind": "Nursery",
+   "updated": "2026-11-16T08:16:21+00:00"
+  },
   {
    "path": "/location/leicestershire",
    "title": "Nurseries in Leicestershire",
@@ -246,60 +300,6 @@
    "title": "Nurseries in Suffolk",
    "kind": "Area guide",
    "updated": "2026-11-06T20:31:59+00:00"
-  },
-  {
-   "path": "/nursery/the-bloom-childcare-group-grundisburgh",
-   "title": "The Bloom Childcare Group Grundisburgh",
-   "kind": "Nursery",
-   "updated": "2026-11-06T20:31:59+00:00"
-  },
-  {
-   "path": "/nursery/the-bloom-childcare-group-lexden",
-   "title": "The Bloom Childcare Group Lexden",
-   "kind": "Nursery",
-   "updated": "2026-11-06T20:27:25+00:00"
-  },
-  {
-   "path": "/location/somerset",
-   "title": "Nurseries in Somerset",
-   "kind": "Area guide",
-   "updated": "2026-11-06T12:45:46+00:00"
-  },
-  {
-   "path": "/location/somerset/yeovil",
-   "title": "Nurseries in Yeovil, Somerset",
-   "kind": "Area guide",
-   "updated": "2026-11-06T12:45:46+00:00"
-  },
-  {
-   "path": "/nursery/tops-yeovil",
-   "title": "Tops Day Nurseries: Yeovil Nursery",
-   "kind": "Nursery",
-   "updated": "2026-11-06T12:45:46+00:00"
-  },
-  {
-   "path": "/location/nottinghamshire",
-   "title": "Nurseries in Nottinghamshire",
-   "kind": "Area guide",
-   "updated": "2026-11-06T11:14:17+00:00"
-  },
-  {
-   "path": "/location/nottinghamshire/nottingham",
-   "title": "Nurseries in Nottingham, Nottinghamshire",
-   "kind": "Area guide",
-   "updated": "2026-11-06T11:14:17+00:00"
-  },
-  {
-   "path": "/nursery/little-toes-day-nursery-clifton",
-   "title": "Little Toes Day Nursery Clifton",
-   "kind": "Nursery",
-   "updated": "2026-11-06T11:14:17+00:00"
-  },
-  {
-   "path": "/nursery/tops-day-nurseries",
-   "title": "Tops Day Nurseries: Bournemouth Nursery",
-   "kind": "Nursery",
-   "updated": "2026-11-06T10:19:56+00:00"
   }
  ]
 }

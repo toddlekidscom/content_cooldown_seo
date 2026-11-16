@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-14T08:56:23+00:00",
+ "updated": "2026-11-15T19:25:40+00:00",
  "items": [
+  {
+   "path": "/location/leicestershire",
+   "title": "Nurseries in Leicestershire",
+   "kind": "Area guide",
+   "updated": "2026-11-15T19:25:40+00:00"
+  },
+  {
+   "path": "/location/leicestershire/market-harborough",
+   "title": "Nurseries in Market Harborough, Leicestershire",
+   "kind": "Area guide",
+   "updated": "2026-11-15T19:25:40+00:00"
+  },
+  {
+   "path": "/nursery/market-harborough-montessori-nursery",
+   "title": "Market Harborough Montessori Nursery",
+   "kind": "Nursery",
+   "updated": "2026-11-15T19:25:40+00:00"
+  },
   {
    "path": "/location/greater-london",
    "title": "Nurseries in Greater London",
@@ -282,24 +300,6 @@
    "title": "Tops Day Nurseries: Bournemouth Nursery",
    "kind": "Nursery",
    "updated": "2026-11-06T10:19:56+00:00"
-  },
-  {
-   "path": "/location/hampshire/aldershot",
-   "title": "Nurseries in Aldershot, Hampshire",
-   "kind": "Area guide",
-   "updated": "2026-11-06T10:19:55+00:00"
-  },
-  {
-   "path": "/nursery/tops-day-nurseries-copnor",
-   "title": "Tops Day Nurseries: Copnor Nursery",
-   "kind": "Nursery",
-   "updated": "2026-11-06T10:19:55+00:00"
-  },
-  {
-   "path": "/nursery/tops-day-nurseries-wareham-nursery",
-   "title": "Tops Day Nurseries: Wareham Nursery",
-   "kind": "Nursery",
-   "updated": "2026-11-06T10:19:54+00:00"
   }
  ]
 }

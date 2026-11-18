@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-17T18:57:15+00:00",
+ "updated": "2026-11-18T18:47:54+00:00",
  "items": [
+  {
+   "path": "/location/greater-london",
+   "title": "Nurseries in Greater London",
+   "kind": "Area guide",
+   "updated": "2026-11-18T18:47:54+00:00"
+  },
+  {
+   "path": "/nursery/growing-beans-tooting-nursery",
+   "title": "Growing Beans Tooting Nursery",
+   "kind": "Nursery",
+   "updated": "2026-11-18T18:47:54+00:00"
+  },
+  {
+   "path": "/nursery/growing-beans-streatham-preschool",
+   "title": "Growing Beans Streatham Preschool",
+   "kind": "Nursery",
+   "updated": "2026-11-18T18:47:53+00:00"
+  },
+  {
+   "path": "/location/greater-london/lambeth",
+   "title": "Nurseries in Lambeth, Greater London",
+   "kind": "Area guide",
+   "updated": "2026-11-18T18:47:52+00:00"
+  },
+  {
+   "path": "/nursery/growing-beans-streatham-nursery",
+   "title": "Growing Beans Streatham Nursery",
+   "kind": "Nursery",
+   "updated": "2026-11-18T18:47:52+00:00"
+  },
+  {
+   "path": "/location/greater-london/croydon",
+   "title": "Nurseries in Croydon, Greater London",
+   "kind": "Area guide",
+   "updated": "2026-11-18T16:36:22+00:00"
+  },
+  {
+   "path": "/nursery/growing-beans-nursery-and-preschool",
+   "title": "Growing Beans Preschool",
+   "kind": "Nursery",
+   "updated": "2026-11-18T16:36:22+00:00"
+  },
+  {
+   "path": "/location/buckinghamshire",
+   "title": "Nurseries in Buckinghamshire",
+   "kind": "Area guide",
+   "updated": "2026-11-18T11:08:05+00:00"
+  },
+  {
+   "path": "/nursery/longwick-preschool",
+   "title": "Longwick Pre-school",
+   "kind": "Nursery",
+   "updated": "2026-11-18T11:08:05+00:00"
+  },
   {
    "path": "/location/derbyshire",
    "title": "Nurseries in Derbyshire",
@@ -18,12 +72,6 @@
    "title": "Little Woodlands Children’s Day Nursery",
    "kind": "Nursery",
    "updated": "2026-11-17T18:57:15+00:00"
-  },
-  {
-   "path": "/location/buckinghamshire",
-   "title": "Nurseries in Buckinghamshire",
-   "kind": "Area guide",
-   "updated": "2026-11-16T14:21:08+00:00"
   },
   {
    "path": "/location/buckinghamshire/high-wycombe",
@@ -72,12 +120,6 @@
    "title": "Market Harborough Montessori Nursery",
    "kind": "Nursery",
    "updated": "2026-11-15T19:25:40+00:00"
-  },
-  {
-   "path": "/location/greater-london",
-   "title": "Nurseries in Greater London",
-   "kind": "Area guide",
-   "updated": "2026-11-14T08:56:23+00:00"
   },
   {
    "path": "/location/greater-london/london",
@@ -258,48 +300,6 @@
    "title": "Tops Day Nurseries: Muscliff Nursery",
    "kind": "Nursery",
    "updated": "2026-11-09T14:23:31+00:00"
-  },
-  {
-   "path": "/location/greater-london/blackheath",
-   "title": "Nurseries in Blackheath, Greater London",
-   "kind": "Area guide",
-   "updated": "2026-11-09T13:05:19+00:00"
-  },
-  {
-   "path": "/nursery/the-woodland-nursery",
-   "title": "The Woodland Nursery",
-   "kind": "Nursery",
-   "updated": "2026-11-09T13:05:19+00:00"
-  },
-  {
-   "path": "/nursery/the-woodland-nursery-2",
-   "title": "The Woodland Nursery",
-   "kind": "Nursery",
-   "updated": "2026-11-09T12:42:40+00:00"
-  },
-  {
-   "path": "/location/tyne-and-wear",
-   "title": "Nurseries in Tyne and Wear",
-   "kind": "Area guide",
-   "updated": "2026-11-09T10:55:37+00:00"
-  },
-  {
-   "path": "/location/tyne-and-wear/newcastle-upon-tyne",
-   "title": "Nurseries in Newcastle upon Tyne, Tyne and Wear",
-   "kind": "Area guide",
-   "updated": "2026-11-09T10:55:37+00:00"
-  },
-  {
-   "path": "/nursery/park-farm-day-nursery",
-   "title": "Park Farm Day Nursery",
-   "kind": "Nursery",
-   "updated": "2026-11-09T10:55:37+00:00"
-  },
-  {
-   "path": "/location/suffolk",
-   "title": "Nurseries in Suffolk",
-   "kind": "Area guide",
-   "updated": "2026-11-06T20:31:59+00:00"
   }
  ]
 }

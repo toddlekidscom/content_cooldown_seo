@@ -1,11 +1,53 @@
 {
- "updated": "2026-11-18T18:47:54+00:00",
+ "updated": "2026-11-19T19:21:11+00:00",
  "items": [
   {
    "path": "/location/greater-london",
    "title": "Nurseries in Greater London",
    "kind": "Area guide",
-   "updated": "2026-11-18T18:47:54+00:00"
+   "updated": "2026-11-19T19:21:11+00:00"
+  },
+  {
+   "path": "/location/greater-london/croydon",
+   "title": "Nurseries in Croydon, Greater London",
+   "kind": "Area guide",
+   "updated": "2026-11-19T19:21:11+00:00"
+  },
+  {
+   "path": "/nursery/growing-beans-norbury-nursery",
+   "title": "Growing Beans Norbury Nursery",
+   "kind": "Nursery",
+   "updated": "2026-11-19T19:21:11+00:00"
+  },
+  {
+   "path": "/location/greater-london/tooting",
+   "title": "Nurseries in Tooting, Greater London",
+   "kind": "Area guide",
+   "updated": "2026-11-19T19:21:10+00:00"
+  },
+  {
+   "path": "/nursery/growing-beans-tooting-preschool",
+   "title": "Growing Beans Tooting Preschool",
+   "kind": "Nursery",
+   "updated": "2026-11-19T19:21:10+00:00"
+  },
+  {
+   "path": "/location/cambridgeshire",
+   "title": "Nurseries in Cambridgeshire",
+   "kind": "Area guide",
+   "updated": "2026-11-19T13:02:43+00:00"
+  },
+  {
+   "path": "/location/cambridgeshire/huntingdon",
+   "title": "Nurseries in Huntingdon, Cambridgeshire",
+   "kind": "Area guide",
+   "updated": "2026-11-19T13:02:43+00:00"
+  },
+  {
+   "path": "/nursery/mother-goose-corner-nursery",
+   "title": "Mother Goose Corner Nursery",
+   "kind": "Nursery",
+   "updated": "2026-11-19T13:02:43+00:00"
   },
   {
    "path": "/nursery/growing-beans-tooting-nursery",
@@ -30,12 +72,6 @@
    "title": "Growing Beans Streatham Nursery",
    "kind": "Nursery",
    "updated": "2026-11-18T18:47:52+00:00"
-  },
-  {
-   "path": "/location/greater-london/croydon",
-   "title": "Nurseries in Croydon, Greater London",
-   "kind": "Area guide",
-   "updated": "2026-11-18T16:36:22+00:00"
   },
   {
    "path": "/nursery/growing-beans-nursery-and-preschool",
@@ -152,12 +188,6 @@
    "updated": "2026-11-11T12:54:50+00:00"
   },
   {
-   "path": "/location/cambridgeshire",
-   "title": "Nurseries in Cambridgeshire",
-   "kind": "Area guide",
-   "updated": "2026-11-11T11:13:03+00:00"
-  },
-  {
    "path": "/location/cambridgeshire/ely",
    "title": "Nurseries in Ely, Cambridgeshire",
    "kind": "Area guide",
@@ -270,36 +300,6 @@
    "title": "Tops Day Nurseries: Lakeside Nursery",
    "kind": "Nursery",
    "updated": "2026-11-09T19:21:12+00:00"
-  },
-  {
-   "path": "/nursery/nursery-on-the-green-2",
-   "title": "Nursery on the Green",
-   "kind": "Nursery",
-   "updated": "2026-11-09T17:34:03+00:00"
-  },
-  {
-   "path": "/location/shropshire",
-   "title": "Nurseries in Shropshire",
-   "kind": "Area guide",
-   "updated": "2026-11-09T14:26:28+00:00"
-  },
-  {
-   "path": "/location/shropshire/newport",
-   "title": "Nurseries in Newport, Shropshire",
-   "kind": "Area guide",
-   "updated": "2026-11-09T14:26:28+00:00"
-  },
-  {
-   "path": "/nursery/tops-day-nurseries-newport-nursery",
-   "title": "Tops Day Nurseries: Newport Nursery",
-   "kind": "Nursery",
-   "updated": "2026-11-09T14:26:28+00:00"
-  },
-  {
-   "path": "/nursery/tops-day-nurseries-muscliff-nursery",
-   "title": "Tops Day Nurseries: Muscliff Nursery",
-   "kind": "Nursery",
-   "updated": "2026-11-09T14:23:31+00:00"
   }
  ]
 }

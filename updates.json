@@ -1,6 +1,228 @@
 {
- "updated": "2026-11-23T19:40:25+00:00",
+ "updated": "2026-11-24T20:10:09+00:00",
  "items": [
+  {
+   "path": "/location/oxfordshire",
+   "title": "Nurseries in Oxfordshire",
+   "kind": "Area guide",
+   "updated": "2026-11-24T20:10:09+00:00"
+  },
+  {
+   "path": "/location/oxfordshire/wantage",
+   "title": "Nurseries in Wantage, Oxfordshire",
+   "kind": "Area guide",
+   "updated": "2026-11-24T20:10:09+00:00"
+  },
+  {
+   "path": "/nursery/the-hendreds-preschool",
+   "title": "The Hendreds Preschool",
+   "kind": "Nursery",
+   "updated": "2026-11-24T20:10:09+00:00"
+  },
+  {
+   "path": "/nursery/your-co-op-little-pioneers-nursery-and-pre-school-kingsgrove",
+   "title": "Your Co-op Little Pioneers Nursery & Pre-School Kingsgrove",
+   "kind": "Nursery",
+   "updated": "2026-11-24T20:10:07+00:00"
+  },
+  {
+   "path": "/nursery/grovelands-park-pre-school",
+   "title": "Grovelands Park Pre-School",
+   "kind": "Nursery",
+   "updated": "2026-11-24T20:09:45+00:00"
+  },
+  {
+   "path": "/nursery/camel-pre-school",
+   "title": "Camel Pre-School",
+   "kind": "Nursery",
+   "updated": "2026-11-24T20:09:43+00:00"
+  },
+  {
+   "path": "/location/greater-manchester",
+   "title": "Nurseries in Greater Manchester",
+   "kind": "Area guide",
+   "updated": "2026-11-24T20:09:42+00:00"
+  },
+  {
+   "path": "/location/greater-manchester/salford",
+   "title": "Nurseries in Salford, Greater Manchester",
+   "kind": "Area guide",
+   "updated": "2026-11-24T20:09:42+00:00"
+  },
+  {
+   "path": "/nursery/yogurt-pots",
+   "title": "Yogurt Pots",
+   "kind": "Nursery",
+   "updated": "2026-11-24T20:09:42+00:00"
+  },
+  {
+   "path": "/nursery/kids-adventures-salford",
+   "title": "Kids Adventures Salford",
+   "kind": "Nursery",
+   "updated": "2026-11-24T20:09:41+00:00"
+  },
+  {
+   "path": "/nursery/holyrood-day-nursery-salford",
+   "title": "Holyrood Day Nursery Salford",
+   "kind": "Nursery",
+   "updated": "2026-11-24T20:09:39+00:00"
+  },
+  {
+   "path": "/nursery/holyrood-salford-royal",
+   "title": "Holyrood Salford Royal",
+   "kind": "Nursery",
+   "updated": "2026-11-24T20:09:38+00:00"
+  },
+  {
+   "path": "/nursery/media-city-nature-kindergarten",
+   "title": "Media City Nature Kindergarten",
+   "kind": "Nursery",
+   "updated": "2026-11-24T20:09:36+00:00"
+  },
+  {
+   "path": "/location/staffordshire",
+   "title": "Nurseries in Staffordshire",
+   "kind": "Area guide",
+   "updated": "2026-11-24T20:09:35+00:00"
+  },
+  {
+   "path": "/location/staffordshire/leek",
+   "title": "Nurseries in Leek, Staffordshire",
+   "kind": "Area guide",
+   "updated": "2026-11-24T20:09:35+00:00"
+  },
+  {
+   "path": "/nursery/twinkle-tots-of-endon",
+   "title": "Twinkle Tots of Endon",
+   "kind": "Nursery",
+   "updated": "2026-11-24T20:09:35+00:00"
+  },
+  {
+   "path": "/nursery/ipstones-tiny-tots",
+   "title": "Ipstones Tiny Tots",
+   "kind": "Nursery",
+   "updated": "2026-11-24T20:09:34+00:00"
+  },
+  {
+   "path": "/nursery/children-1st-buckinghams-nursery-leek",
+   "title": "Children 1st Buckinghams Nursery, Leek",
+   "kind": "Nursery",
+   "updated": "2026-11-24T20:09:32+00:00"
+  },
+  {
+   "path": "/nursery/leek-westwood-preschool",
+   "title": "Leek Westwood Preschool",
+   "kind": "Nursery",
+   "updated": "2026-11-24T20:09:31+00:00"
+  },
+  {
+   "path": "/location/essex",
+   "title": "Nurseries in Essex",
+   "kind": "Area guide",
+   "updated": "2026-11-24T20:09:29+00:00"
+  },
+  {
+   "path": "/location/essex/braintree",
+   "title": "Nurseries in Braintree, Essex",
+   "kind": "Area guide",
+   "updated": "2026-11-24T20:09:29+00:00"
+  },
+  {
+   "path": "/nursery/yumbo-daycare",
+   "title": "Yumbo Daycare",
+   "kind": "Nursery",
+   "updated": "2026-11-24T20:09:29+00:00"
+  },
+  {
+   "path": "/nursery/the-colourwheel-montessori",
+   "title": "The Colourwheel Montessori",
+   "kind": "Nursery",
+   "updated": "2026-11-24T20:09:28+00:00"
+  },
+  {
+   "path": "/nursery/apple-tree-day-care-nursery",
+   "title": "Apple Tree Day Care Nursery",
+   "kind": "Nursery",
+   "updated": "2026-11-24T20:09:26+00:00"
+  },
+  {
+   "path": "/nursery/kidorable-pre-school-and-childcare",
+   "title": "Kidorable Pre School and Childcare",
+   "kind": "Nursery",
+   "updated": "2026-11-24T20:09:24+00:00"
+  },
+  {
+   "path": "/nursery/christ-church-pre-school-nursery",
+   "title": "Christ Church Pre School Nursery",
+   "kind": "Nursery",
+   "updated": "2026-11-24T20:09:23+00:00"
+  },
+  {
+   "path": "/location/hertfordshire",
+   "title": "Nurseries in Hertfordshire",
+   "kind": "Area guide",
+   "updated": "2026-11-24T20:09:21+00:00"
+  },
+  {
+   "path": "/location/hertfordshire/hertford",
+   "title": "Nurseries in Hertford, Hertfordshire",
+   "kind": "Area guide",
+   "updated": "2026-11-24T20:09:21+00:00"
+  },
+  {
+   "path": "/nursery/tiny-toes-day-nursery-and-pre-school",
+   "title": "Tiny Toes Day Nursery & Pre-School",
+   "kind": "Nursery",
+   "updated": "2026-11-24T20:09:21+00:00"
+  },
+  {
+   "path": "/nursery/hertford-barns-day-nursery",
+   "title": "Hertford Barns Day Nursery",
+   "kind": "Nursery",
+   "updated": "2026-11-24T20:09:20+00:00"
+  },
+  {
+   "path": "/nursery/st-joseph-s-playgroup",
+   "title": "St. Joseph’s Playgroup",
+   "kind": "Nursery",
+   "updated": "2026-11-24T20:09:18+00:00"
+  },
+  {
+   "path": "/nursery/bayford-pre-school",
+   "title": "Bayford Pre School",
+   "kind": "Nursery",
+   "updated": "2026-11-24T20:09:17+00:00"
+  },
+  {
+   "path": "/nursery/bengeo-playgroup",
+   "title": "Bengeo Playgroup",
+   "kind": "Nursery",
+   "updated": "2026-11-24T20:09:15+00:00"
+  },
+  {
+   "path": "/nursery/zipadee-day-nursery",
+   "title": "Zipadee Day Nursery",
+   "kind": "Nursery",
+   "updated": "2026-11-24T20:09:14+00:00"
+  },
+  {
+   "path": "/location/greater-london",
+   "title": "Nurseries in Greater London",
+   "kind": "Area guide",
+   "updated": "2026-11-24T19:41:05+00:00"
+  },
+  {
+   "path": "/location/greater-london/london",
+   "title": "Nurseries in London, Greater London",
+   "kind": "Area guide",
+   "updated": "2026-11-24T19:41:05+00:00"
+  },
+  {
+   "path": "/nursery/little-garden-gate-nursery",
+   "title": "Little Garden Gate Nursery",
+   "kind": "Nursery",
+   "updated": "2026-11-24T19:41:05+00:00"
+  },
   {
    "path": "/location/cambridgeshire",
    "title": "Nurseries in Cambridgeshire",
@@ -50,18 +272,6 @@
    "updated": "2026-11-23T10:58:04+00:00"
   },
   {
-   "path": "/location/greater-london",
-   "title": "Nurseries in Greater London",
-   "kind": "Area guide",
-   "updated": "2026-11-21T14:54:41+00:00"
-  },
-  {
-   "path": "/location/greater-london/london",
-   "title": "Nurseries in London, Greater London",
-   "kind": "Area guide",
-   "updated": "2026-11-21T14:54:41+00:00"
-  },
-  {
    "path": "/nursery/cybertots-limited",
    "title": "Cybertots Limited",
    "kind": "Nursery",
@@ -90,216 +300,6 @@
    "title": "Treetops Nursery Easton",
    "kind": "Nursery",
    "updated": "2026-11-21T14:10:12+00:00"
-  },
-  {
-   "path": "/location/lincolnshire",
-   "title": "Nurseries in Lincolnshire",
-   "kind": "Area guide",
-   "updated": "2026-11-21T14:09:58+00:00"
-  },
-  {
-   "path": "/location/lincolnshire/scunthorpe",
-   "title": "Nurseries in Scunthorpe, Lincolnshire",
-   "kind": "Area guide",
-   "updated": "2026-11-21T14:09:58+00:00"
-  },
-  {
-   "path": "/nursery/the-ark-day-nursery",
-   "title": "The Ark Day Nursery",
-   "kind": "Nursery",
-   "updated": "2026-11-21T14:09:58+00:00"
-  },
-  {
-   "path": "/location/cambridgeshire/wisbech",
-   "title": "Nurseries in Wisbech, Cambridgeshire",
-   "kind": "Area guide",
-   "updated": "2026-11-21T14:09:49+00:00"
-  },
-  {
-   "path": "/nursery/stepping-stones-pre-school",
-   "title": "Stepping Stones Pre-School",
-   "kind": "Nursery",
-   "updated": "2026-11-21T14:09:49+00:00"
-  },
-  {
-   "path": "/location/bristol",
-   "title": "Nurseries in Bristol",
-   "kind": "Area guide",
-   "updated": "2026-11-21T14:09:42+00:00"
-  },
-  {
-   "path": "/nursery/raised-in-bristol-at-felix-road-adventure-playground",
-   "title": "Raised in Bristol at Felix Road Adventure Playground",
-   "kind": "Nursery",
-   "updated": "2026-11-21T14:09:42+00:00"
-  },
-  {
-   "path": "/location/gloucestershire",
-   "title": "Nurseries in Gloucestershire",
-   "kind": "Area guide",
-   "updated": "2026-11-21T14:09:29+00:00"
-  },
-  {
-   "path": "/nursery/north-common-pre-school",
-   "title": "North Common Pre-School",
-   "kind": "Nursery",
-   "updated": "2026-11-21T14:09:29+00:00"
-  },
-  {
-   "path": "/nursery/murrow-pre-school",
-   "title": "Murrow Pre-School",
-   "kind": "Nursery",
-   "updated": "2026-11-21T14:09:22+00:00"
-  },
-  {
-   "path": "/nursery/magic-dragon-pre-school",
-   "title": "Magic Dragon Pre-School",
-   "kind": "Nursery",
-   "updated": "2026-11-21T14:09:15+00:00"
-  },
-  {
-   "path": "/nursery/little-friends-nursery",
-   "title": "Little Friends Nursery",
-   "kind": "Nursery",
-   "updated": "2026-11-21T14:09:03+00:00"
-  },
-  {
-   "path": "/location/cornwall/liskeard",
-   "title": "Nurseries in Liskeard, Cornwall",
-   "kind": "Area guide",
-   "updated": "2026-11-21T14:08:55+00:00"
-  },
-  {
-   "path": "/nursery/liskeard-school-nursery",
-   "title": "Liskeard School Nursery",
-   "kind": "Nursery",
-   "updated": "2026-11-21T14:08:55+00:00"
-  },
-  {
-   "path": "/location/greater-london/west-wickham",
-   "title": "Nurseries in West Wickham, Greater London",
-   "kind": "Area guide",
-   "updated": "2026-11-21T14:08:47+00:00"
-  },
-  {
-   "path": "/nursery/linden-leas-pre-school",
-   "title": "Linden Leas Pre School",
-   "kind": "Nursery",
-   "updated": "2026-11-21T14:08:47+00:00"
-  },
-  {
-   "path": "/location/hampshire",
-   "title": "Nurseries in Hampshire",
-   "kind": "Area guide",
-   "updated": "2026-11-21T14:08:34+00:00"
-  },
-  {
-   "path": "/nursery/jiminy-crickets-pre-school",
-   "title": "Jiminy Crickets Pre-School",
-   "kind": "Nursery",
-   "updated": "2026-11-21T14:08:34+00:00"
-  },
-  {
-   "path": "/location/gloucestershire/kingswood",
-   "title": "Nurseries in Kingswood, Gloucestershire",
-   "kind": "Area guide",
-   "updated": "2026-11-21T14:08:26+00:00"
-  },
-  {
-   "path": "/nursery/hillside-day-nursery",
-   "title": "Hillside Day Nursery",
-   "kind": "Nursery",
-   "updated": "2026-11-21T14:08:26+00:00"
-  },
-  {
-   "path": "/location/bedfordshire",
-   "title": "Nurseries in Bedfordshire",
-   "kind": "Area guide",
-   "updated": "2026-11-21T14:08:18+00:00"
-  },
-  {
-   "path": "/location/bedfordshire/dunstable",
-   "title": "Nurseries in Dunstable, Bedfordshire",
-   "kind": "Area guide",
-   "updated": "2026-11-21T14:08:18+00:00"
-  },
-  {
-   "path": "/nursery/harlington-village-pre-school",
-   "title": "Harlington Village Pre-School",
-   "kind": "Nursery",
-   "updated": "2026-11-21T14:08:18+00:00"
-  },
-  {
-   "path": "/location/greater-london/greenford",
-   "title": "Nurseries in Greenford, Greater London",
-   "kind": "Area guide",
-   "updated": "2026-11-21T14:08:05+00:00"
-  },
-  {
-   "path": "/nursery/happy-choo-choo-nursery-greenford",
-   "title": "Happy Choo Choo Nursery Greenford",
-   "kind": "Nursery",
-   "updated": "2026-11-21T14:08:05+00:00"
-  },
-  {
-   "path": "/nursery/dobwalls-school-nursery",
-   "title": "Dobwalls School Nursery",
-   "kind": "Nursery",
-   "updated": "2026-11-21T14:07:57+00:00"
-  },
-  {
-   "path": "/location/berkshire",
-   "title": "Nurseries in Berkshire",
-   "kind": "Area guide",
-   "updated": "2026-11-21T14:07:36+00:00"
-  },
-  {
-   "path": "/location/berkshire/thatcham",
-   "title": "Nurseries in Thatcham, Berkshire",
-   "kind": "Area guide",
-   "updated": "2026-11-21T14:07:36+00:00"
-  },
-  {
-   "path": "/nursery/cold-ash-pre-school",
-   "title": "Cold Ash Pre School",
-   "kind": "Nursery",
-   "updated": "2026-11-21T14:07:36+00:00"
-  },
-  {
-   "path": "/location/greater-london/twickenham",
-   "title": "Nurseries in Twickenham, Greater London",
-   "kind": "Area guide",
-   "updated": "2026-11-21T14:07:28+00:00"
-  },
-  {
-   "path": "/nursery/chestnuts-nursery-tw1",
-   "title": "Chestnuts Nursery TW1",
-   "kind": "Nursery",
-   "updated": "2026-11-21T14:07:28+00:00"
-  },
-  {
-   "path": "/location/northamptonshire",
-   "title": "Nurseries in Northamptonshire",
-   "kind": "Area guide",
-   "updated": "2026-11-21T14:07:19+00:00"
-  },
-  {
-   "path": "/location/northamptonshire/northampton",
-   "title": "Nurseries in Northampton, Northamptonshire",
-   "kind": "Area guide",
-   "updated": "2026-11-21T14:07:19+00:00"
-  },
-  {
-   "path": "/nursery/abc123-home-from-home-parkside",
-   "title": "ABC123 – Home from Home Parkside",
-   "kind": "Nursery",
-   "updated": "2026-11-21T14:07:19+00:00"
-  },
-  {
-   "path": "/location/worcestershire",
-   "title": "Nurseries in Worcestershire",
-   "kind": "Area guide",
-   "updated": "2026-11-21T13:48:48+00:00"
   }
  ]
 }

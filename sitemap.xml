@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-<url><loc>https://toddlekids.com/</loc><lastmod>2026-11-23T19:40:25+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/</loc><lastmod>2026-11-24T20:10:09+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/nursery-listing</loc></url>
 <url><loc>https://toddlekids.com/nursery-groups</loc></url>
 <url><loc>https://toddlekids.com/location</loc></url>
@@ -54,6 +54,7 @@
 <url><loc>https://toddlekids.com/location/cornwall/bodmin</loc><lastmod>2026-10-08T01:31:44+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/dorset/bournemouth</loc><lastmod>2026-11-10T20:49:06+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/berkshire/bracknell</loc><lastmod>2026-10-07T21:12:02+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/location/essex/braintree</loc><lastmod>2026-11-24T20:09:29+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/east-sussex/brighton</loc><lastmod>2026-10-20T16:45:47+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/bristol</loc><lastmod>2026-11-21T14:09:42+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/greater-london/bromley</loc><lastmod>2026-10-20T16:52:52+00:00</lastmod></url>
@@ -96,7 +97,7 @@
 <url><loc>https://toddlekids.com/location/cheshire/ellesmere-port</loc><lastmod>2026-09-28T21:26:25+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/cambridgeshire/ely</loc><lastmod>2026-11-23T19:40:25+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/greater-london/enfield</loc><lastmod>2026-10-20T16:45:31+00:00</lastmod></url>
-<url><loc>https://toddlekids.com/location/essex</loc><lastmod>2026-11-09T20:57:15+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/location/essex</loc><lastmod>2026-11-24T20:09:29+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/devon/exeter</loc><lastmod>2026-07-22T23:22:09+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/gloucestershire/filton</loc><lastmod>2026-07-22T23:37:24+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/bedfordshire/flitwick</loc><lastmod>2026-09-28T21:05:09+00:00</lastmod></url>
@@ -105,8 +106,8 @@
 <url><loc>https://toddlekids.com/location/east-riding-of-yorkshire/goole</loc><lastmod>2026-07-22T23:31:00+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/lincolnshire/grantham</loc><lastmod>2026-09-28T14:30:41+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/cambridgeshire/great-gransden</loc><lastmod>2026-10-15T21:35:23+00:00</lastmod></url>
-<url><loc>https://toddlekids.com/location/greater-london</loc><lastmod>2026-11-21T14:54:41+00:00</lastmod></url>
-<url><loc>https://toddlekids.com/location/greater-manchester</loc><lastmod>2026-07-22T23:37:21+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/location/greater-london</loc><lastmod>2026-11-24T19:41:05+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/location/greater-manchester</loc><lastmod>2026-11-24T20:09:42+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/greater-london/greenford</loc><lastmod>2026-11-21T14:08:05+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/lincolnshire/grimsby</loc><lastmod>2026-10-20T16:52:32+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/hampshire</loc><lastmod>2026-11-21T14:08:34+00:00</lastmod></url>
@@ -117,7 +118,8 @@
 <url><loc>https://toddlekids.com/location/cornwall/helston</loc><lastmod>2026-11-23T10:58:04+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/herefordshire/hereford</loc><lastmod>2026-11-16T08:16:21+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/herefordshire</loc><lastmod>2026-11-16T08:16:21+00:00</lastmod></url>
-<url><loc>https://toddlekids.com/location/hertfordshire</loc><lastmod>2026-10-20T21:47:37+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/location/hertfordshire/hertford</loc><lastmod>2026-11-24T20:09:21+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/location/hertfordshire</loc><lastmod>2026-11-24T20:09:21+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/east-riding-of-yorkshire/hessle</loc><lastmod>2026-07-22T23:31:01+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/buckinghamshire/high-wycombe</loc><lastmod>2026-11-21T13:39:36+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/greater-london/hornchurch</loc><lastmod>2026-10-20T21:32:32+00:00</lastmod></url>
@@ -142,13 +144,14 @@
 <url><loc>https://toddlekids.com/location/cornwall/launceston</loc><lastmod>2026-10-08T01:36:23+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/herefordshire/ledbury</loc><lastmod>2026-07-22T23:22:22+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/west-yorkshire/leeds</loc><lastmod>2026-10-20T16:46:48+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/location/staffordshire/leek</loc><lastmod>2026-11-24T20:09:35+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/leicestershire</loc><lastmod>2026-11-23T15:41:53+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/bedfordshire/leighton-buzzard</loc><lastmod>2026-09-28T21:07:29+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/lincolnshire/lincoln</loc><lastmod>2026-10-20T16:58:46+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/lincolnshire</loc><lastmod>2026-11-21T14:09:58+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/cornwall/liskeard</loc><lastmod>2026-11-21T14:08:55+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/merseyside/liverpool</loc><lastmod>2026-11-21T13:36:31+00:00</lastmod></url>
-<url><loc>https://toddlekids.com/location/greater-london/london</loc><lastmod>2026-11-21T14:54:41+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/location/greater-london/london</loc><lastmod>2026-11-24T19:41:05+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/bedfordshire/luton</loc><lastmod>2026-09-28T21:08:28+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/cheshire/macclesfield</loc><lastmod>2026-09-28T21:29:55+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/greater-manchester/manchester</loc><lastmod>2026-07-22T23:37:21+00:00</lastmod></url>
@@ -174,7 +177,7 @@
 <url><loc>https://toddlekids.com/location/nottinghamshire</loc><lastmod>2026-11-21T13:47:58+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/greater-london/orpington</loc><lastmod>2026-10-20T21:32:31+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/oxfordshire/oxford</loc><lastmod>2026-11-20T10:44:10+00:00</lastmod></url>
-<url><loc>https://toddlekids.com/location/oxfordshire</loc><lastmod>2026-11-20T10:44:10+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/location/oxfordshire</loc><lastmod>2026-11-24T20:10:09+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/somerset/paulton</loc><lastmod>2026-09-28T21:47:22+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/cumbria/penrith</loc><lastmod>2026-07-22T23:21:38+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/cornwall/penzance</loc><lastmod>2026-10-08T01:41:36+00:00</lastmod></url>
@@ -193,6 +196,7 @@
 <url><loc>https://toddlekids.com/location/warwickshire/rugby</loc><lastmod>2026-07-22T23:30:54+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/greater-london/ruislip</loc><lastmod>2026-10-08T03:04:50+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/isle-of-wight/ryde</loc><lastmod>2026-07-22T23:21:52+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/location/greater-manchester/salford</loc><lastmod>2026-11-24T20:09:42+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/cornwall/saltash</loc><lastmod>2026-10-08T01:44:24+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/somerset/saltford</loc><lastmod>2026-09-28T21:49:59+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/berkshire/sandhurst</loc><lastmod>2026-10-07T21:20:26+00:00</lastmod></url>
@@ -209,7 +213,7 @@
 <url><loc>https://toddlekids.com/location/merseyside/southport</loc><lastmod>2026-07-22T23:21:42+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/cornwall/st-austell</loc><lastmod>2026-10-20T17:01:46+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/cambridgeshire/st-ives-cambridgeshire</loc><lastmod>2026-11-21T13:37:30+00:00</lastmod></url>
-<url><loc>https://toddlekids.com/location/staffordshire</loc><lastmod>2026-11-21T13:45:57+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/location/staffordshire</loc><lastmod>2026-11-24T20:09:35+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/northumberland/stocksfield</loc><lastmod>2026-07-22T23:21:32+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/bedfordshire/stotfold</loc><lastmod>2026-11-05T20:35:23+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/suffolk/sudbury</loc><lastmod>2026-07-22T23:21:27+00:00</lastmod></url>
@@ -227,6 +231,7 @@
 <url><loc>https://toddlekids.com/location/greater-london/twickenham</loc><lastmod>2026-11-21T14:07:28+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/tyne-and-wear</loc><lastmod>2026-11-09T10:55:37+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/cumbria/ulverston</loc><lastmod>2026-07-22T23:38:05+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/location/oxfordshire/wantage</loc><lastmod>2026-11-24T20:10:09+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/cheshire/warrington</loc><lastmod>2026-09-28T21:34:32+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/warwickshire/warwick</loc><lastmod>2026-07-22T23:30:54+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/location/warwickshire</loc><lastmod>2026-10-20T21:49:48+00:00</lastmod></url>
@@ -1276,6 +1281,31 @@
 <url><loc>https://toddlekids.com/nursery/growing-beans-tooting-nursery</loc><lastmod>2026-11-18T18:47:54+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/nursery/growing-beans-tooting-preschool</loc><lastmod>2026-11-19T19:21:10+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/nursery/aflah-nursery-oxford</loc><lastmod>2026-11-20T10:44:10+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/zipadee-day-nursery</loc><lastmod>2026-11-24T20:09:14+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/bengeo-playgroup</loc><lastmod>2026-11-24T20:09:15+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/bayford-pre-school</loc><lastmod>2026-11-24T20:09:17+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/st-joseph-s-playgroup</loc><lastmod>2026-11-24T20:09:18+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/hertford-barns-day-nursery</loc><lastmod>2026-11-24T20:09:20+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/tiny-toes-day-nursery-and-pre-school</loc><lastmod>2026-11-24T20:09:21+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/christ-church-pre-school-nursery</loc><lastmod>2026-11-24T20:09:23+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/kidorable-pre-school-and-childcare</loc><lastmod>2026-11-24T20:09:24+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/apple-tree-day-care-nursery</loc><lastmod>2026-11-24T20:09:26+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/the-colourwheel-montessori</loc><lastmod>2026-11-24T20:09:28+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/yumbo-daycare</loc><lastmod>2026-11-24T20:09:29+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/leek-westwood-preschool</loc><lastmod>2026-11-24T20:09:31+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/children-1st-buckinghams-nursery-leek</loc><lastmod>2026-11-24T20:09:32+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/ipstones-tiny-tots</loc><lastmod>2026-11-24T20:09:34+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/twinkle-tots-of-endon</loc><lastmod>2026-11-24T20:09:35+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/media-city-nature-kindergarten</loc><lastmod>2026-11-24T20:09:36+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/holyrood-salford-royal</loc><lastmod>2026-11-24T20:09:38+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/holyrood-day-nursery-salford</loc><lastmod>2026-11-24T20:09:39+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/kids-adventures-salford</loc><lastmod>2026-11-24T20:09:41+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/yogurt-pots</loc><lastmod>2026-11-24T20:09:42+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/camel-pre-school</loc><lastmod>2026-11-24T20:09:43+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/grovelands-park-pre-school</loc><lastmod>2026-11-24T20:09:45+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/your-co-op-little-pioneers-nursery-and-pre-school-kingsgrove</loc><lastmod>2026-11-24T20:10:07+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/the-hendreds-preschool</loc><lastmod>2026-11-24T20:10:09+00:00</lastmod></url>
+<url><loc>https://toddlekids.com/nursery/little-garden-gate-nursery</loc><lastmod>2026-11-24T19:41:05+00:00</lastmod></url>
 <url><loc>https://toddlekids.com/nursery-groups/independent</loc></url>
 <url><loc>https://toddlekids.com/nursery-groups/bright-horizons</loc></url>
 <url><loc>https://toddlekids.com/nursery-groups/partou</loc></url>
